@@ -1,1 +1,1 @@
-# requeriments-flixxic
+# Domain Model
