@@ -1,5 +1,5 @@
 # Introducción 
-En este proyecto, desarrollaré Flexxic, un sitio web y aplicación móvil enfocados en películas y series, con el objetivo de adquirir experiencia en el desarrollo de software y mejorar mis habilidades en tecnologías como Git, GitHub, Angular, Java y Spring Boot y otras tecnologías. Para lograr este propósito, implementaré el proceso de desarrollo RUP y profundizaré en las arquitecturas de aplicaciones web y móviles.
+En este proyecto, desarrollaré Flixxic, un sitio web y aplicación móvil enfocados en películas y series, con el objetivo de adquirir experiencia en el desarrollo de software y mejorar mis habilidades en tecnologías como Git, GitHub, Angular, Java y Spring Boot y otras tecnologías. Para lograr este propósito, implementaré el proceso de desarrollo RUP y profundizaré en las arquitecturas de aplicaciones web y móviles.
 
 # Objetivos
 - Crear un sitio web y una aplicación móvil de películas y series.
@@ -46,5 +46,5 @@ Describre los conceptos más importantes del contexto del sistema como son:
 - Eventos que suceden o que sucederán en el sistema
 - Establecer un vocabulario común entre los usuarios y los desarrolladores
 
-Para el caso de Flexxic, el modelo de dominio se ve de la siguiente manera:
-![Modelo de dominio](https://github.com/vfred0/requirements-flexxic/blob/main/images/domain-model.png?raw=true)
+Para el caso de Flixxic, el modelo de dominio se ve de la siguiente manera:
+![Modelo de dominio](https://github.com/vfred0/requirements-flixxic/blob/main/images/domain-model.png?raw=true)
