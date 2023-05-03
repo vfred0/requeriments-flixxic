@@ -37,10 +37,10 @@ y cada disciplina se divide en 4 fases:
 
 ![RUP](https://github.com/vfred0/requirements-flixxic/blob/main/images/rup/phases.png?raw=true)
 
-Al final, no estaré siguiendo al pie de la letra el proceso de desarrollo RUP, pero si tomaré en cuenta los aspectos más importantes de este proceso de desarrollo.
+Al final, no estaré siguiendo al pie de la letra el proceso de desarrollo RUP, pero si tomaré en cuenta los aspectos más importantes.
 
 # Modelo de dominio
-Describre los conceptos más importantes del contexto del sistema como son:
+Describe los conceptos más importantes del contexto del sistema como son:
 - Objetos de negocio
 - Objetos del mundo real y conceptos que un sistema necesita hacer un seguimiento
 - Eventos que suceden o que sucederán en el sistema
@@ -48,3 +48,10 @@ Describre los conceptos más importantes del contexto del sistema como son:
 
 Para el caso de Flixxic, el modelo de dominio se ve de la siguiente manera:
 ![Modelo de dominio](https://github.com/vfred0/requirements-flixxic/blob/main/images/domain-model.png?raw=true)
+
+# Referencias
+Para llevar a cabo este proyecto, he utilizado como referencia los siguientes proyectos y agradezco a los autores por compartirlos:
+
+- [Gestor de taller mecánico AgrimManager](https://www.notion.so/Gestor-de-taller-mec-nico-AgrimManager-a8d44826c2494e15bcb235fc1019938d#cd3ccf181d9c4a1b9253416cd9b74f57)
+- [HalteroCMS](https://github.com/zuldare/mastercloud_pfm_halterocms)
+- [Master EscuelaIT]('https://github.com/USantaTecla-0-general/3-publicaciones')
