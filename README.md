@@ -19,7 +19,7 @@ Los tres aspectos más importantes en RUP son:
 Además, se utiliza UML para preparar los esquemas que representan el sistema software. 
 
 Al final un proyecto que hace uso de RUP se ve de la siguiente manera:
-![RUP](https://github.com/zuldare/mastercloud_pfm_halterocms/blob/main/documentation/images/RUP_1.png?raw=true)
+![RUP](https://github.com/vfred0/requirements-flixxic/blob/main/images/rup/disciplines.png?raw=true)
 
 En dónde se obtiene 5 disciplinas o flujos, los cuales son los modelos de: 
 - Casos de uso
@@ -35,7 +35,7 @@ y cada disciplina se divide en 4 fases:
 - Construcción 
 - Transición
 
-![RUP](https://github.com/zuldare/mastercloud_pfm_halterocms/blob/main/documentation/images/RUP_2.png?raw=true)
+![RUP](https://github.com/vfred0/requirements-flixxic/blob/main/images/rup/phases.png?raw=true)
 
 Al final, no estaré siguiendo al pie de la letra el proceso de desarrollo RUP, pero si tomaré en cuenta los aspectos más importantes de este proceso de desarrollo.
 
