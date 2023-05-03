@@ -54,4 +54,4 @@ Para llevar a cabo este proyecto, he utilizado como referencia los siguientes pr
 
 - [Gestor de taller mecánico AgrimManager](https://www.notion.so/Gestor-de-taller-mec-nico-AgrimManager-a8d44826c2494e15bcb235fc1019938d#cd3ccf181d9c4a1b9253416cd9b74f57)
 - [HalteroCMS](https://github.com/zuldare/mastercloud_pfm_halterocms)
-- [Master EscuelaIT]('https://github.com/USantaTecla-0-general/3-publicaciones')
+- [Master EscuelaIT](https://github.com/USantaTecla-0-general/3-publicaciones)
