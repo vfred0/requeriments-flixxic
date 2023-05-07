@@ -48,7 +48,7 @@ Describe los conceptos más importantes del contexto del sistema como son:
 Asimismo nos permite tener un vocabulario común entre los desarrolladores, clientes y usuarios, con la finalidad de evitar malentendidos.
 
 Para el caso de Flixxic, el modelo del dominio se ve de la siguiente manera:
-![Modelo de dominio](https://github.com/vfred0/requirements-flixxic/blob/main/images/domain-model.png?raw=true)
+![Modelo de dominio](https://github.com/vfred0/requirements-flixxic/blob/main/docs/0-domain-model/domain-model.png?raw=true)
 
 # Referencias
 Para llevar a cabo este proyecto, he utilizado como referencia los siguientes proyectos y agradezco a los autores por compartirlos:
