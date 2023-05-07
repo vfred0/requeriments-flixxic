@@ -79,7 +79,7 @@ Los usuarios podrán realizar las siguientes interacciones con el contenido:
 
 | Ver detalles, buscar y filtrar | Comentar | Calificar |
 | --------- | --------- | --------- |
-| ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/user/content-interaction/view-search-filter.svg?raw=true) | ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/user/content-interaction/comments.svg?raw=true) | ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/user/content-interaction/review.svg?raw=true) |
+| ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/user/content-interaction/view-search-filter.svg?raw=true) | ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/user/content-interaction/comments.svg?raw=true) | ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/user/content-interaction/reviews.svg?raw=true) |
 
 | Favoritos | Ver más tarde | Historial |
 | --------- | --------- | --------- |
