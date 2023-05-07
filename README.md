@@ -39,12 +39,13 @@ y cada disciplina se divide en 4 fases:
 
 Al final, no estaré siguiendo al pie de la letra el proceso de desarrollo RUP, pero si tomaré en cuenta los aspectos más importantes.
 
-# Modelo de dominio
+# Modelo del dominio
 Describe los conceptos más importantes del contexto del sistema como son:
 - Objetos de negocio
 - Objetos del mundo real y conceptos que un sistema necesita hacer un seguimiento
 - Eventos que suceden o que sucederán en el sistema
-- Establecer un vocabulario común entre los usuarios y los desarrolladores
+
+Asimismo nos permite tener un vocabulario común entre los desarrolladores, clientes y usuarios.
 
 Para el caso de Flixxic, el modelo de dominio se ve de la siguiente manera:
 ![Modelo de dominio](https://github.com/vfred0/requirements-flixxic/blob/main/images/domain-model.png?raw=true)
