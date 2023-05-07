@@ -1,0 +1,10 @@
+@startuml watch-later
+left to right direction
+actor User
+    rectangle "Watch later" {
+        User -- (View watch later)    
+        User -- (Add to watch later)
+        User -- (Delete watch later)
+        User -- (Delete all watch later)        
+    }
+@enduml

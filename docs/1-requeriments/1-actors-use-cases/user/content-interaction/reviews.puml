@@ -1,0 +1,10 @@
+@startuml reviews
+left to right direction
+actor User
+    rectangle "Reviews" {
+        User -- (View reviews)    
+        User -- (Add review)    
+        User -- (Edit review)
+        User -- (Delete review)        
+    }
+@enduml

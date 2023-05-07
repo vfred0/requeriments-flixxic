@@ -1,0 +1,10 @@
+@startuml favorites
+left to right direction
+actor User
+    rectangle "Favorites" {
+        User -- (View favorites)    
+        User -- (Add to favorite)
+        User -- (Delete favorite)
+        User -- (Delete all favorites)        
+    }
+@enduml

@@ -1,0 +1,13 @@
+@startuml comments
+left to right direction
+actor User
+    rectangle "Comments" {
+        User -- (View comments)    
+        User -- (Add comment)   
+        User -- (Edit comment)
+        User -- (Delete comment)
+        User -- (Reply comment)
+        User -- (Like comment)
+        User -- (Dislike comment)         
+    }
+@enduml

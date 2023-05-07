@@ -1,0 +1,10 @@
+@startuml history
+left to right direction
+actor User
+    rectangle "History" {
+        User -- (View history)    
+        User -- (Search history)
+        User -- (Delete history)
+        User -- (Delete all history)        
+    }
+@enduml

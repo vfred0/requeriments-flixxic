@@ -1,0 +1,10 @@
+@startuml notifications
+left to right direction
+actor User
+rectangle "Notifications" {
+    User -- (View notification)
+    User -- (View all notifications)
+    User -- (Delete notification)    
+    User -- (Delete all notifications)
+}
+@enduml
