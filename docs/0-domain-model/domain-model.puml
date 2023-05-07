@@ -1,0 +1,44 @@
+@startuml domain-model
+
+!define ZERO_TO_ONE 0..1
+!define ZERO_TO_MANY 0..N
+!define ONE_TO_ONE 1..1
+!define ONE_TO_MANY 1..N
+
+' !define createComposition(all, part, cardinality) all *--> part: cardinality
+' createComposition(User, ManagementProfile, ONE_TO_MANY)
+
+Flixxic *--> User: ONE_TO_MANY
+Flixxic *--> Content: ONE_TO_MANY
+
+User <|-- NormalUser: ONE_TO_MANY
+User <|-right- AdminUser: ONE_TO_MANY
+
+NormalUser -right-> ManagementProfile
+AdminUser -up-> ManagementContent
+
+Content <|-- Movie: ONE_TO_MANY
+Content <|-up- Serie: ONE_TO_MANY
+Content *--> Cast: ONE_TO_ONE
+Content o--> Comment: ZERO_TO_MANY
+Content *-left-> Trailer: ONE_TO_ONE
+Content *-right-> Storyline: ONE_TO_ONE
+Content *-up-> Genre: ONE_TO_MANY
+Content o--> Review: ZERO_TO_MANY
+
+Cast *--> Actor: ONE_TO_MANY
+
+Actor o--> Movie: ONE_TO_MANY
+Actor o--> Serie: ONE_TO_MANY
+
+Serie *--> Season: ONE_TO_MANY
+
+Season *--> Episode: ONE_TO_MANY
+
+Episode o--> Comment: ZERO_TO_MANY
+Episode o--> Review: ZERO_TO_MANY
+Episode o--> Cast: ONE_TO_ONE
+
+Comment o--> Reply: ZERO_TO_MANY
+Comment o--> LikeOrDislike: ZERO_TO_MANY
+@enduml
