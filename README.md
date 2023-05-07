@@ -45,9 +45,9 @@ Describe los conceptos más importantes del contexto del sistema como son:
 - Objetos del mundo real y conceptos que un sistema necesita hacer un seguimiento
 - Eventos que suceden o que sucederán en el sistema
 
-Asimismo nos permite tener un vocabulario común entre los desarrolladores, clientes y usuarios.
+Asimismo nos permite tener un vocabulario común entre los desarrolladores, clientes y usuarios, con la finalidad de evitar malentendidos.
 
-Para el caso de Flixxic, el modelo de dominio se ve de la siguiente manera:
+Para el caso de Flixxic, el modelo del dominio se ve de la siguiente manera:
 ![Modelo de dominio](https://github.com/vfred0/requirements-flixxic/blob/main/images/domain-model.png?raw=true)
 
 # Referencias
