@@ -1,3 +1,12 @@
+# Índice    
+- [Introducción](#introducción)
+- [Objetivos](#objetivos)
+- [Proceso unificado de desarrollo (RUP)](#proceso-unificado-de-desarrollo-rup)
+- [Modelo del dominio](#modelo-del-dominio)
+- [Disciplina de requisitos](#disciplina-de-requisitos)
+  - [Actores y casos de uso](#actores-y-casos-de-uso)
+- [Referencias](#referencias)
+
 # Introducción 
 En este proyecto, desarrollaré Flixxic, un sitio web y aplicación móvil enfocados en películas y series, con el objetivo de adquirir experiencia en el desarrollo de software y mejorar mis habilidades en tecnologías como Git, GitHub, Angular, Java y Spring Boot y otras tecnologías. Para lograr este propósito, implementaré el proceso de desarrollo RUP y profundizaré en las arquitecturas de aplicaciones web y móviles.
 
@@ -48,7 +57,13 @@ Describe los conceptos más importantes del contexto del sistema como son:
 Asimismo nos permite tener un vocabulario común entre los desarrolladores, clientes y usuarios, con la finalidad de evitar malentendidos.
 
 Para el caso de Flixxic, el modelo del dominio se ve de la siguiente manera:
-![Modelo de dominio](https://github.com/vfred0/requirements-flixxic/blob/main/docs/0-domain-model/domain-model.png?raw=true)
+![Modelo de dominio](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/0-domain-model/domain-model.png?raw=true)
+
+# Disciplina de requisitos
+## Actores y casos de uso
+| Autenticación | Gestión del contenido |
+| --------- | --------- |
+| ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requirements/admin/authentication.png?raw=true) | ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requirements/admin/content-management.png?raw=true) |
 
 # Referencias
 Para llevar a cabo este proyecto, he utilizado como referencia los siguientes proyectos y agradezco a los autores por compartirlos:
