@@ -6,6 +6,7 @@
 - [Disciplina de requisitos](#disciplina-de-requisitos)
   - [Actores y casos de uso](#actores-y-casos-de-uso)
     - [Casos de uso para los administradores](#casos-de-uso-para-los-administradores)    
+    - [Casos de uso para los usuarios](#casos-de-uso-para-los-usuarios)
 - [Referencias](#referencias)
 
 # Introducción 
@@ -64,13 +65,25 @@ Para el caso de Flixxic, el modelo del dominio se ve de la siguiente manera:
 ## Actores y casos de uso
 Los actores son los usuarios que interactúan con el sistema y los casos de uso son las acciones que pueden realizar los actores.
 
-Para el caso de Flixxic, los actores serám administradores y usuarios. Los administradores son los usuarios que se encargan de gestionar el contenido, mientras que los usuarios son los usuarios que visualizan el contenido.
+Para el caso de Flixxic, los actores serám administradores y usuarios. Los administradores son los usuarios que se encargan de gestionar el contenido, mientras que los usuarios son los que interactúan con el contenido.
 
 ### Casos de uso para los administradores
 
 | Autenticación | Gestión del contenido |
 | --------- | --------- |
 | ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/admin/authentication.png?raw=true) | ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/admin/content-management.png?raw=true) |
+
+### Casos de uso para los usuarios
+
+Los usuarios podrán realizar las siguientes interacciones con el contenido:
+
+| Ver detalles, buscar y filtrar | Comentar | Calificar |
+| --------- | --------- | --------- |
+| ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/user/content-interaction/view-search-filter.png?raw=true) | ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/user/content-interaction/comments.svg?raw=true) | ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/user/content-interaction/review.png?raw=true) |
+
+| Favoritos | Ver más tarde | Historial |
+| --------- | --------- | --------- |
+| ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/user/content-interaction/favorites.png?raw=true) | ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/user/content-interaction/watch-later.png?raw=true) | ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/user/content-interaction/history.png?raw=true) |
 
 # Referencias
 Para llevar a cabo este proyecto, he utilizado como referencia los siguientes proyectos y agradezco a los autores por compartirlos:
