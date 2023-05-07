@@ -1,0 +1,20 @@
+@startuml content-management
+left to right direction
+actor Admin
+rectangle "Content Management" {       
+
+    rectangle "Movies" {
+        Admin -- (Add movie)
+        Admin -- (Search movie)
+        Admin -- (Edit movie)
+        Admin -- (Delete movie)        
+    }
+
+    rectangle "Series" {
+        Admin -- (Add serie) 
+        Admin -- (Search serie)
+        Admin -- (Edit serie)
+        Admin -- (Delete serie)
+    }
+}
+@enduml

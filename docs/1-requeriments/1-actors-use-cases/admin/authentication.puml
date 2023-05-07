@@ -1,0 +1,8 @@
+@startuml authentication
+left to right direction
+actor Admin
+rectangle "Authentication" {
+    Admin -- (Login)    
+    Admin -- (Logout)      
+}
+@enduml 
