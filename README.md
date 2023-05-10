@@ -65,7 +65,7 @@ Para el caso de Flixxic, el modelo del dominio se ve de la siguiente manera:
 ## Actores y casos de uso
 Los actores son los usuarios que interactúan con el sistema y los casos de uso son las acciones que pueden realizar los actores.
 
-Para el caso de Flixxic, los actores serám administradores y usuarios. Los administradores son los usuarios que se encargan de gestionar el contenido, mientras que los usuarios son los que interactúan con el contenido.
+Para el caso de Flixxic, los actores serám administradores y usuarios. Los administradores son los que se encargan de gestionar el contenido, mientras que los usuarios son los que interactúan con el contenido.
 
 ### Casos de uso para los administradores
 
