@@ -78,7 +78,7 @@ Para el caso de Flixxic, los actores serám administradores y usuarios. Los admi
 Los usuarios podrán realizar las siguientes interacciones con el contenido:
 
 | Autenticación | Gestión del perfil | Notificaciones |
-| --------- | --------- |
+| --------- | --------- |--------- |
 | ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/user/authentication.svg?raw=true) | ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/user/profile-management.svg?raw=true) | ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/user/notifications.svg?raw=true) |
 
 | Ver detalles, buscar y filtrar | Comentar | Calificar |
