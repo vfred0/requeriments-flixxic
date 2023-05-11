@@ -1,0 +1,67 @@
+@startuml context
+[*] --> INITIAL
+note on link
+  Authenticaction
+end note
+
+INITIAL --> VIEW_HOME
+INITIAL --> VIEW_CATALOG
+INITIAL --> VIEW_LIBRARY
+INITIAL --> VIEW_NOTIFICATIONS
+INITIAL --> PROFILE_MANAGEMENT 
+note on link
+  Edit profile and 
+  security  
+end note
+INITIAL --> SEARCH_CONTENT
+SEARCH_CONTENT --> VIEW_CONTENT
+note on link
+  Input search or
+  select from recent
+end note
+
+PROFILE_MANAGEMENT --> [*]
+note on link
+  Logout
+end note
+
+
+VIEW_CATALOG --> SEARCH_FILTER_CONTENT
+
+VIEW_LIBRARY --> VIEW_WATCH_LATER
+VIEW_LIBRARY --> VIEW_FAVORITES
+VIEW_LIBRARY --> VIEW_HISTORY
+
+VIEW_HOME --> VIEW_CONTENT
+note on link
+  New releases
+  Movies
+  Series
+end note
+
+VIEW_NOTIFICATIONS --> VIEW_COMMENTS
+note on link
+  View replies or
+  like/dislike of commentary 
+end note
+
+VIEW_COMMENTS --> [*]
+note on link
+  Logout
+end note
+
+SEARCH_FILTER_CONTENT --> VIEW_CONTENT
+note on link
+  By content (movie or serie)
+  year, genre, rating.
+end note
+
+VIEW_WATCH_LATER --> VIEW_CONTENT
+VIEW_FAVORITES --> VIEW_CONTENT
+VIEW_HISTORY --> VIEW_CONTENT
+
+VIEW_CONTENT --> [*]
+note on link
+  Logout
+end note
+@enduml
