@@ -7,6 +7,7 @@
   - [Actores y casos de uso](#actores-y-casos-de-uso)
     - [Casos de uso para los administradores](#casos-de-uso-para-los-administradores)    
     - [Casos de uso para los usuarios](#casos-de-uso-para-los-usuarios)
+    - [Diagrama de contexto](#diagrama-de-contexto)
 - [Referencias](#referencias)
 
 # Introducción 
@@ -62,6 +63,8 @@ Para el caso de Flixxic, el modelo del dominio se ve de la siguiente manera:
 ![Modelo de dominio](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/0-domain-model/domain-model.svg?raw=true)
 
 # Disciplina de requisitos
+Es el flujo de trabajo (realización de casos de uso que incluye roles, actividades y artefactos) cuyo principal propósito es dirigir el desarrollo hacia el sistema correcto describiendo los requisitos del sistema de tal forma que se alcance el acuerdo entre el cliente, usuarios y desarrolladores sobre lo que el sistema debería hacer. (Master EscuelaIT)
+
 ## Actores y casos de uso
 Los actores son los usuarios que interactúan con el sistema y los casos de uso son las acciones que pueden realizar los actores.
 
@@ -88,6 +91,18 @@ Los usuarios podrán realizar las siguientes interacciones con el contenido:
 | Favoritos | Ver más tarde | Historial |
 | --------- | --------- | --------- |
 | ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/user/content-interaction/favorites.svg?raw=true) | ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/user/content-interaction/watch-later.svg?raw=true) | ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/user/content-interaction/history.svg?raw=true) |
+
+#### Diagrama de contexto
+
+Mediante el siguiente diagrama de contexto de casos de usos representa el flujo de interacción entre los diferentes casos de uso del sistema
+
+![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/user/context.svg?raw=true)
+
+### Priorizar casos de uso
+
+### Especificar casos de uso
+
+
 
 # Referencias
 Para llevar a cabo este proyecto, he utilizado como referencia los siguientes proyectos y agradezco a los autores por compartirlos:
