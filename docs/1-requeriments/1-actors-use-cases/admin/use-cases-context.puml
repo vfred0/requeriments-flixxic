@@ -1,0 +1,38 @@
+@startuml use-cases-context
+[*] --> CONTENT_MANAGEMENT
+note on link
+  Authenticaction
+end note
+
+CONTENT_MANAGEMENT --> VIEW_CATALOG
+CONTENT_MANAGEMENT --> ADD_NEW_CONTENT
+CONTENT_MANAGEMENT --> EDIT_CONTENT
+CONTENT_MANAGEMENT --> DELETE_CONTENT
+CONTENT_MANAGEMENT --> VIEW_CONTENT
+CONTENT_MANAGEMENT --> SEARCH_FILTER_CONTENT
+
+VIEW_CATALOG --> [*]
+note on link
+  Logout
+end note
+ADD_NEW_CONTENT --> [*]
+note on link
+  Logout
+end note
+EDIT_CONTENT --> [*]
+note on link
+  Logout
+end note
+DELETE_CONTENT --> [*]
+note on link
+  Logout
+end note
+VIEW_CONTENT --> [*]
+note on link
+  Logout
+end note
+SEARCH_FILTER_CONTENT --> [*]
+note on link
+  Logout
+end note
+@enduml

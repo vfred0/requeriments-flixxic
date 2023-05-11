@@ -7,7 +7,7 @@
   - [Actores y casos de uso](#actores-y-casos-de-uso)
     - [Casos de uso para los administradores](#casos-de-uso-para-los-administradores)    
     - [Casos de uso para los usuarios](#casos-de-uso-para-los-usuarios)
-    - [Diagrama de contexto](#diagrama-de-contexto)
+    - [Contexto de casos de uso](#contexto-de-casos-de-uso)
 - [Referencias](#referencias)
 
 # Introducción 
@@ -92,17 +92,17 @@ Los usuarios podrán realizar las siguientes interacciones con el contenido:
 | --------- | --------- | --------- |
 | ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/user/content-interaction/favorites.svg?raw=true) | ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/user/content-interaction/watch-later.svg?raw=true) | ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/user/content-interaction/history.svg?raw=true) |
 
-#### Diagrama de contexto
+#### Contexto de casos de uso
 
-Mediante el siguiente diagrama de contexto de casos de usos representa el flujo de interacción entre los diferentes casos de uso del sistema
+El siguiente diagrama de contexto de casos de uso representa el flujo de interacción entre los diferentes casos de uso del sistema.
 
-![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/user/context.svg?raw=true)
+Administradores
 
-### Priorizar casos de uso
+![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/admin/use-cases-context.svg?raw=true)
 
-### Especificar casos de uso
+Usuarios 
 
-
+![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/user/use-cases-context.svg?raw=true)
 
 # Referencias
 Para llevar a cabo este proyecto, he utilizado como referencia los siguientes proyectos y agradezco a los autores por compartirlos:
