@@ -11,14 +11,14 @@
 - [Referencias](#referencias)
 
 # Introducción 
-En este proyecto, desarrollaré Flixxic, un sitio web y aplicación móvil enfocados en películas y series, con el objetivo de adquirir experiencia en el desarrollo de software y mejorar mis habilidades en tecnologías como Git, GitHub, Angular, Java y Spring Boot y otras tecnologías. Para lograr este propósito, implementaré el proceso de desarrollo RUP y profundizaré en las arquitecturas de aplicaciones web y móviles.
+En este proyecto, desarrollaré Flixxic, una aplicación web de películas y series, con el objetivo de adquirir experiencia en el desarrollo de software y mejorar mis habilidades en tecnologías como Git, GitHub, Angular, Java y Spring Boot y otras tecnologías. Para lograr este propósito, implementaré el proceso de desarrollo RUP y profundizaré en las arquitecturas de aplicaciones web.
 
 # Objetivos
-- Crear un sitio web y una aplicación móvil de películas y series.
+- Crear una aplicación web de películas y series.
 - Ganar experiencia en el desarrollo de software.
 - Mejorar mis habilidades con Git, GitHub, Angular, Java y Spring Boot y demás tecnologías.
 - Aprender a utilizar el proceso de desarrollo RUP.
-- Profundizar en las arquiteturas de aplicaciones web y móviles.
+- Profundizar en las arquiteturas de aplicaciones web.
 
 # Proceso unificado de desarrollo (RUP)
 El proceso de desarrollo Rational Unified Process (RUP) es un conjunto de actividades que ayudan a transformar los requisitos de un usuario en un sistema software. Además, RUP también es un marco de trabajo genérico que puede especializarse para una gran variedad de sistemas software.
