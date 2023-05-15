@@ -36,3 +36,30 @@ note on link
   Logout
 end note
 @enduml
+
+@startuml use-cases-context-v2
+
+[*] --> AUTHENTICATION
+AUTHENTICATION --> OPENED_FLIXXIC
+note on link 
+    Login
+end note
+
+OPENED_FLIXXIC -left-> CONTENT_MANAGEMENT
+note left    
+    - Add new content
+    - Edit content
+    - Delete content
+    - Search and filter content
+end note
+
+state continueManagement <<choice>>
+
+OPENED_FLIXXIC --> continueManagement
+CONTENT_MANAGEMENT --> continueManagement
+continueManagement --> OPENED_FLIXXIC
+continueManagement --> [*]
+note on link 
+    Logout
+end note
+@enduml

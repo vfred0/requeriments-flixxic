@@ -99,7 +99,7 @@ El siguiente diagrama de contexto de casos de uso representa el flujo de interac
 
 Administradores
 
-![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/admin/use-cases-context.svg?raw=true)
+![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/admin/use-cases-context-v2.svg?raw=true)
 
 Usuarios 
 

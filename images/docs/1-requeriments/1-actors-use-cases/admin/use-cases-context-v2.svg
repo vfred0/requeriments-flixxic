@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="510px" preserveAspectRatio="none" style="width:591px;height:510px;background:#FFFFFF;" version="1.1" viewBox="0 0 591 510" width="591px" zoomAndPan="magnify"><defs/><g><ellipse cx="512.5" cy="16" fill="#222222" rx="10" ry="10" style="stroke:none;stroke-width:1.0;"/><g id="AUTHENTICATION"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="143" x="441" y="87"/><line style="stroke:#181818;stroke-width:0.5;" x1="441" x2="584" y1="113.7999" y2="113.7999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="123" x="451" y="105.0059">AUTHENTICATION</text></g><g id="OPENED_FLIXXIC"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="139" x="443" y="243.2"/><line style="stroke:#181818;stroke-width:0.5;" x1="443" x2="582" y1="269.9999" y2="269.9999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="119" x="453" y="261.2059">OPENED_FLIXXIC</text></g><g id="CONTENT_MANAGEMENT"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="196" x="211.5" y="243.2"/><line style="stroke:#181818;stroke-width:0.5;" x1="211.5" x2="407.5" y1="269.9999" y2="269.9999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="176" x="221.5" y="261.2059">CONTENT_MANAGEMENT</text></g><g id="elem_GMN10"><path d="M6,232 L6,304.4001 A0,0 0 0 0 6,304.4001 L177,304.4001 A0,0 0 0 0 177,304.4001 L177,272.2 L211.22,268.2 L177,264.2 L177,242 L167,232 L6,232 A0,0 0 0 0 6,232 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M167,232 L167,242 L177,242 L167,232 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="105" x="12" y="249.077">- Add new content</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="78" x="12" y="264.677">- Edit content</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="92" x="12" y="280.277">- Delete content</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="150" x="12" y="295.8771">- Search and filter content</text></g><g id="elem_continueManagement"><polygon fill="#F1F1F1" points="512.5,365.4,524.5,377.4,512.5,389.4,500.5,377.4,512.5,365.4" style="stroke:#181818;stroke-width:0.5;"/></g><ellipse cx="512.5" cy="494.4" fill="none" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><ellipse cx="513" cy="494.9" fill="#222222" rx="6" ry="6" style="stroke:none;stroke-width:1.0;"/><!--MD5=[1e3bdf202a25adfebfa2664c5c686ea2]
+link *start to AUTHENTICATION--><g id="link_*start_AUTHENTICATION"><path d="M512.5,26.36 C512.5,38.98 512.5,62.07 512.5,80.94 " fill="none" id="*start-to-AUTHENTICATION" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="512.5,85.65,516.5,76.65,512.5,80.65,508.5,76.65,512.5,85.65" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[8a93a48e7e7146dd51d620cf7b3d7b34]
+link AUTHENTICATION to OPENED_FLIXXIC--><g id="link_AUTHENTICATION_OPENED_FLIXXIC"><path d="M512.5,137.43 C512.5,164.39 512.5,207.8 512.5,236.9 " fill="none" id="AUTHENTICATION-to-OPENED_FLIXXIC" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="512.5,241.88,516.5,232.88,512.5,236.88,508.5,232.88,512.5,241.88" style="stroke:#181818;stroke-width:1.0;"/><path d="M517.5,172 L517.5,197 L569.5,197 L569.5,182 L559.5,172 L517.5,172 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M559.5,172 L559.5,182 L569.5,182 L559.5,172 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="31" x="523.5" y="189.077">Login</text></g><!--MD5=[34dbf89f566f1087521f3a967f942ad9]
+reverse link CONTENT_MANAGEMENT to OPENED_FLIXXIC--><g id="link_CONTENT_MANAGEMENT_OPENED_FLIXXIC"><path d="M413.8,268.2 C423.4,268.2 432.99,268.2 442.58,268.2 " fill="none" id="CONTENT_MANAGEMENT-backto-OPENED_FLIXXIC" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="408.83,268.2,417.83,272.2,413.83,268.2,417.83,264.2,408.83,268.2" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[6f8c9059dc33badfbe19712177c137b3]
+link OPENED_FLIXXIC to continueManagement--><g id="link_OPENED_FLIXXIC_continueManagement"><path d="M501.62,293.53 C498.39,316.19 499.34,348.94 504.47,365.67 " fill="none" id="OPENED_FLIXXIC-to-continueManagement" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="506.54,370.06,507.0365,360.2237,504.7422,365.3944,499.5715,363.1001,506.54,370.06" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[26f34bc5ddc193a0d46f00db1397a69a]
+link continueManagement to OPENED_FLIXXIC--><g id="link_continueManagement_OPENED_FLIXXIC"><path d="M518.81,371.06 C525.57,358.16 527.57,324.51 524.78,299.39 " fill="none" id="continueManagement-to-OPENED_FLIXXIC" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="524.02,294.53,521.2107,303.9697,524.663,299.4885,529.1442,302.9408,524.02,294.53" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[378a111c64dd47050e4fad89d8b62125]
+link CONTENT_MANAGEMENT to continueManagement--><g id="link_CONTENT_MANAGEMENT_continueManagement"><path d="M355.82,293.66 C402.55,318.34 471.71,354.86 499.88,369.73 " fill="none" id="CONTENT_MANAGEMENT-to-continueManagement" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="503.94,372.41,497.8655,364.6575,499.5235,370.066,494.1151,371.7239,503.94,372.41" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[be3c5093ad0e0226624edbabb5cb6fc2]
+link continueManagement to *end--><g id="link_continueManagement_*end"><path d="M512.5,389.85 C512.5,410.71 512.5,454.91 512.5,478.24 " fill="none" id="continueManagement-to-*end" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="512.5,482.96,516.5,473.96,512.5,477.96,508.5,473.96,512.5,482.96" style="stroke:#181818;stroke-width:1.0;"/><path d="M517.5,424.4 L517.5,449.4 L577.5,449.4 L577.5,434.4 L567.5,424.4 L517.5,424.4 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M567.5,424.4 L567.5,434.4 L577.5,434.4 L567.5,424.4 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="39" x="523.5" y="441.477">Logout</text></g><!--MD5=[83f3250b7e81593ee60bcc207836f235]
+@startuml use-cases-context-v2
+
+[*] - -> AUTHENTICATION
+AUTHENTICATION - -> OPENED_FLIXXIC
+note on link 
+    Login
+end note
+
+OPENED_FLIXXIC -left-> CONTENT_MANAGEMENT
+note left    
+    - Add new content
+    - Edit content
+    - Delete content
+    - Search and filter content
+end note
+
+state continueManagement <<choice>>
+
+OPENED_FLIXXIC - -> continueManagement
+CONTENT_MANAGEMENT - -> continueManagement
+continueManagement - -> OPENED_FLIXXIC
+continueManagement - -> [*]
+note on link 
+    Logout
+end note
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 12:01:30 ECT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>
