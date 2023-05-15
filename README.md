@@ -102,7 +102,10 @@ Administradores
 
 Usuarios 
 
-![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/user/use-cases-context.svg?raw=true)
+![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/user/use-cases-context-v2.svg?raw=true)
+
+## Especicar casos de uso
+En vista que por medio de los ca
 
 # Referencias
 Para llevar a cabo este proyecto, he utilizado como referencia los siguientes proyectos y agradezco a los autores por compartirlos:
