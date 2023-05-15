@@ -1,0 +1,170 @@
+@startuml content-interaction
+[*] --> CONTENT_INTERACTION
+
+state FILTER_CONTENT {
+    state R1 as " "    
+    state R2 as " "
+    [*] --> R1
+    R1 --> R2    
+    note on link
+        <b> System allows to:</b>
+        - Filter content by type content
+        - Filter content by year
+        - Filter content by genre
+        - Filter content by rating                    
+    end note
+    R2 --> [*]
+}
+
+state SEARCH_CONTENT {
+    state S1 as " "    
+    state S2 as " "
+    [*] --> S1
+    S1 --> S2    
+    note on link
+        <b> System allows to:</b>
+        - Search content by title 
+        - Search content by recent searches
+    end note
+    S2 --> [*]
+}
+
+state VIEW_CONTENT {
+    state V1 as " "    
+    state V2 as " "
+    state V3 as " "
+    state V4 as " "
+    state commentOrReview as " " <<choice>>
+    [*] --> V1
+    V1 --> V2 
+           
+    note on link
+        <b> System show:</b>
+        - View content details
+            - title
+            - year 
+            - duration
+            - age
+            - rate
+            - storyline
+            - genre
+            - cast
+            - trailer                        
+        - View content reviews        
+        - View content comments 
+        - Add content to watch later list
+        - Add content to favorite list               
+    end note
+
+    V2 --> commentOrReview
+    commentOrReview --> V3
+    note on link
+        <b> System allows to:</b>
+        - Add comment
+        - View comments
+        - Like or dislike comment
+        - Delete comment                               
+    end note
+
+    commentOrReview --> V4
+    note on link
+        <b> System allows to:</b>
+        - Add review    
+        - View reviews
+        - Delete review
+    end note
+
+    state unionCommentOrReview <<choice>>
+    V3 --> unionCommentOrReview
+    V4 --> unionCommentOrReview
+    unionCommentOrReview --> V1
+    unionCommentOrReview --> [*]
+}
+
+state WATCH_LATER {
+    state W1 as " "    
+    state W2 as " "
+    [*] --> W1
+    W1 --> W2    
+    note on link
+        <b> System allows to:</b>
+        - Add content to watch later list
+        - Search content in watch later list        
+        - Remove content from watch later list
+    end note
+    W2 --> [*]
+}
+
+
+state FAVORITES {
+    state F1 as " "    
+    state F2 as " "
+    [*] --> F1
+    F1 --> F2    
+    note on link
+        <b> System allows to:</b>
+        - Add content to favorite list
+        - Search content in favorite list        
+        - Remove content from favorite list
+    end note
+    F2 --> [*]
+    
+}
+
+state HISTORY {
+    state H1 as " "    
+    state H2 as " "
+    [*] --> H1
+    H1 --> H2    
+    note on link
+        <b> System allows to:</b>
+        - Add content to history list
+        - Search content in history list        
+        - Remove content from history list
+    end note
+    H2 --> [*]
+}
+
+state NOTIFICATION {
+    state N1 as " "    
+    state N2 as " "
+    [*] --> N1
+    N1 --> N2    
+    note on link
+        <b> System allows to:</b>
+        - View notification       
+        - Delete notification
+    end note
+    N2 --> [*]
+    ' note on link 
+    '     <b> System allows to:</b>
+    '     - Redirection to comment 
+    ' end note
+}
+
+
+CONTENT_INTERACTION -left-> FILTER_CONTENT
+CONTENT_INTERACTION -right-> SEARCH_CONTENT
+CONTENT_INTERACTION --> WATCH_LATER
+CONTENT_INTERACTION --> FAVORITES
+CONTENT_INTERACTION --> HISTORY
+CONTENT_INTERACTION --> NOTIFICATION
+
+state union <<choice>> 
+
+FILTER_CONTENT --> union
+SEARCH_CONTENT --> union
+WATCH_LATER --> union
+FAVORITES --> union
+HISTORY --> union
+NOTIFICATION --> union
+
+union --> VIEW_CONTENT
+
+state finished <<choice>>
+
+VIEW_CONTENT --> finished
+finished --> [*]
+finished --> CONTENT_INTERACTION
+
+@enduml

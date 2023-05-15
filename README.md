@@ -8,6 +8,7 @@
     - [Casos de uso para los administradores](#casos-de-uso-para-los-administradores)    
     - [Casos de uso para los usuarios](#casos-de-uso-para-los-usuarios)
     - [Contexto de casos de uso](#contexto-de-casos-de-uso)
+  - [Especicar casos de uso](#especificar-casos-de-uso)
 - [Referencias](#referencias)
 
 # Introducción 
@@ -68,7 +69,7 @@ Es el flujo de trabajo (realización de casos de uso que incluye roles, activida
 ## Actores y casos de uso
 Los actores son los usuarios que interactúan con el sistema y los casos de uso son las acciones que pueden realizar los actores.
 
-Para el caso de Flixxic, los actores serám administradores y usuarios. Los administradores son los que se encargan de gestionar el contenido, mientras que los usuarios son los que interactúan con el contenido.
+Para el caso de Flixxic, los actores serán administradores y usuarios. Los administradores son los que se encargan de gestionar el contenido, mientras que los usuarios son los que interactúan con el contenido.
 
 ### Casos de uso para los administradores
 
@@ -104,8 +105,14 @@ Usuarios
 
 ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/1-actors-use-cases/user/use-cases-context-v2.svg?raw=true)
 
-## Especicar casos de uso
-En vista que por medio de los ca
+## Especificar casos de uso
+Detalles de los casos de uso relacionados con la interacción que hace el usuario con el sistema y con la autenticación.
+
+### Autenticación
+![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/2-use-cases-specifications/user/authentication.svg?raw=true)
+
+### Interacción con el contenido
+![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/2-use-cases-specifications/user/content-interaction.svg?raw=true)
 
 # Referencias
 Para llevar a cabo este proyecto, he utilizado como referencia los siguientes proyectos y agradezco a los autores por compartirlos:
