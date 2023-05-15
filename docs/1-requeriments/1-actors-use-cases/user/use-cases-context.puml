@@ -65,3 +65,47 @@ note on link
   Logout
 end note
 @enduml
+
+
+@startuml use-cases-context-v2
+
+[*] --> AUTHENTICATION
+
+AUTHENTICATION --> OPENED_FLIXXIC: Login
+OPENED_FLIXXIC -right-> CONTENT_INTERACTION
+OPENED_FLIXXIC -left-> PROFILE_MANAGEMENT
+
+CONTENT_INTERACTION --> CONTENT_INTERACTION
+note on link
+  View content
+  Comments
+  Reviews
+  Search and filter
+  Watch later
+  Favorites
+  History
+end note
+
+
+AUTHENTICATION --> AUTHENTICATION
+note on link
+  Login
+  Register
+end note
+
+PROFILE_MANAGEMENT --> PROFILE_MANAGEMENT
+note on link
+  Edit profile
+  Security  
+end note
+
+state logout <<choice>>
+
+
+CONTENT_INTERACTION --> logout
+PROFILE_MANAGEMENT --> logout
+
+OPENED_FLIXXIC --> logout
+logout --> [*]: Logout
+logout -left-> OPENED_FLIXXIC: Login
+@enduml
