@@ -107,14 +107,16 @@ Usuarios
 
 ## Especificar casos de uso
 Detalles de los casos de uso relacionados con la interacción que hace el usuario con el sistema y con la autenticación.
-Administradores
+
+### Administradores
 ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/2-use-cases-specifications/admin/content-management.svg?raw=true)
 
-Usuarios
-### Autenticación
+### Usuarios
+
+Autenticación
 ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/2-use-cases-specifications/user/authentication.svg?raw=true)
 
-### Interacción con el contenido
+Interacción con el contenido
 ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/2-use-cases-specifications/user/content-interaction.svg?raw=true)
 
 # Referencias

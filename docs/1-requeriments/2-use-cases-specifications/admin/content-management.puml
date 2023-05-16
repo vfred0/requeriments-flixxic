@@ -17,9 +17,10 @@ state ADD_CONTENT {
     end note
     ACSC1 --> ACS2
     note on link 
-        <b> Manually: </b>
+        <b> Manually: </b>                    
         - Name    
         - Year 
+        - Age
         - Storyline
         - Genres
         - Actors
@@ -49,6 +50,7 @@ state ADD_CONTENT {
         - Details of each episode
             - Name    
             - Year 
+            - Age 
             - Storyline
             - Genres
             - Actors
