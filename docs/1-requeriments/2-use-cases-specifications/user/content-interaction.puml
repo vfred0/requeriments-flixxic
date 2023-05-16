@@ -71,7 +71,7 @@ state VIEW_CONTENT {
         <b> System allows to:</b>
         - Add review   
           - Rating
-          - Description 
+          - Comment 
         - View reviews
         - Delete review
     end note
