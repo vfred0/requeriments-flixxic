@@ -77,26 +77,26 @@ OPENED_FLIXXIC -left-> PROFILE_MANAGEMENT
 
 CONTENT_INTERACTION --> CONTENT_INTERACTION
 note on link
-  View content
-  Comments
-  Reviews
-  Search and filter
-  Watch later
-  Favorites
-  History
+  * View content
+  * Comments
+  * Reviews
+  * Search and filter
+  * Watch later
+  * Favorites
+  * History
 end note
 
 
 AUTHENTICATION --> AUTHENTICATION
 note on link
-  Login
-  Register
+  * Login
+  * Register
 end note
 
 PROFILE_MANAGEMENT --> PROFILE_MANAGEMENT
 note on link
-  Edit profile
-  Security  
+  * Edit profile
+  * Security  
 end note
 
 state logout <<choice>>

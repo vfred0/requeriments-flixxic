@@ -8,10 +8,10 @@ state FILTER_CONTENT {
     R1 --> R2    
     note on link
         <b> System allows to:</b>
-        - Filter content by type content
-        - Filter content by year
-        - Filter content by genre
-        - Filter content by rating                    
+        * Filter content by type content
+        * Filter content by year
+        * Filter content by genre
+        * Filter content by rating                    
     end note
     R2 --> [*]
 }
@@ -23,8 +23,8 @@ state SEARCH_CONTENT {
     S1 --> S2    
     note on link
         <b> System allows to:</b>
-        - Search content by title 
-        - Search content by recent searches
+        * Search content by title 
+        * Search content by recent searches
     end note
     S2 --> [*]
 }
@@ -40,40 +40,40 @@ state VIEW_CONTENT {
            
     note on link
         <b> System show:</b>
-        - View content details
-            - title
-            - year 
-            - duration
-            - age
-            - rate
-            - storyline
-            - genre
-            - cast
-            - trailer                        
-        - View content reviews        
-        - View content comments 
-        - Add content to watch later list
-        - Add content to favorite list               
+        * View content details
+            * title
+            * year 
+            * duration
+            * age
+            * rate
+            * storyline
+            * genre
+            * cast
+            * trailer                        
+        * View content reviews        
+        * View content comments 
+        * Add content to watch later list
+        * Add content to favorite list               
     end note
 
     V2 --> commentOrReview
     commentOrReview --> V3
     note on link
         <b> System allows to:</b>
-        - Add comment
-        - View comments
-        - Like or dislike comment
-        - Delete comment                               
+        * Add comment
+        * View comments
+        * Like or dislike comment
+        * Delete comment                               
     end note
 
     commentOrReview --> V4
     note on link
         <b> System allows to:</b>
-        - Add review   
-          - Rating
-          - Comment 
-        - View reviews
-        - Delete review
+        * Add review   
+          * Rating
+          * Comment 
+        * View reviews
+        * Delete review
     end note
 
     state unionCommentOrReview <<choice>>
@@ -90,9 +90,9 @@ state WATCH_LATER {
     W1 --> W2    
     note on link
         <b> System allows to:</b>
-        - Add content to watch later list
-        - Search content in watch later list        
-        - Remove content from watch later list
+        * Add content to watch later list
+        * Search content in watch later list        
+        * Remove content from watch later list
     end note
     W2 --> [*]
 }
@@ -105,9 +105,9 @@ state FAVORITES {
     F1 --> F2    
     note on link
         <b> System allows to:</b>
-        - Add content to favorite list
-        - Search content in favorite list        
-        - Remove content from favorite list
+        * Add content to favorite list
+        * Search content in favorite list        
+        * Remove content from favorite list
     end note
     F2 --> [*]
     
@@ -120,9 +120,9 @@ state HISTORY {
     H1 --> H2    
     note on link
         <b> System allows to:</b>
-        - Add content to history list
-        - Search content in history list        
-        - Remove content from history list
+        * Add content to history list
+        * Search content in history list        
+        * Remove content from history list
     end note
     H2 --> [*]
 }
@@ -134,13 +134,13 @@ state NOTIFICATION {
     N1 --> N2    
     note on link
         <b> System allows to:</b>
-        - View notification       
-        - Delete notification
+        * View notification       
+        * Delete notification
     end note
     N2 --> [*]
     ' note on link 
     '     <b> System allows to:</b>
-    '     - Redirection to comment 
+    '     * Redirection to comment 
     ' end note
 }
 

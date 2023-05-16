@@ -47,10 +47,10 @@ end note
 
 OPENED_FLIXXIC -left-> CONTENT_MANAGEMENT
 note left    
-    - Add new content
-    - Edit content
-    - Delete content
-    - Search and filter content
+    * Add new content
+    * Edit content
+    * Delete content
+    * Search and filter content
 end note
 
 state continueManagement <<choice>>
