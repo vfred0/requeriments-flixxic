@@ -69,7 +69,9 @@ state VIEW_CONTENT {
     commentOrReview --> V4
     note on link
         <b> System allows to:</b>
-        - Add review    
+        - Add review   
+          - Rating
+          - Description 
         - View reviews
         - Delete review
     end note
