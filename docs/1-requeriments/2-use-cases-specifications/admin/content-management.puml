@@ -1,0 +1,172 @@
+@startuml content-management
+state ADD_CONTENT {
+    state ACS1 as " "
+    state ACS2 as " "    
+    state ACS3 as " "    
+    state ACS4 as " "    
+    state ACSC1 <<choice>>   
+    state ACSC2 <<choice>>   
+    state ACSC3 <<choice>>   
+
+    [*] --> ACS1
+    ACS1 --> ACSC1 
+    note on link 
+        <b> System allows to: </b>
+        - Use API
+        - Manually
+    end note
+    ACSC1 --> ACS2
+    note on link 
+        <b> Manually: </b>
+        - Name    
+        - Year 
+        - Storyline
+        - Genres
+        - Actors
+        - Trailer
+        - Poster
+        - Rating
+        - Duration              
+    end note
+
+    ACSC1 --> ACS3 
+    note on link
+    <b> Use API: </b>
+        - Insert content name
+        - Select type of content
+    end note       
+    
+    ACS2 --> ACSC2    
+    note on link 
+        Is serie?
+    end note
+
+    ACSC2  --> ACS4
+    note on link 
+        <b> Deatils serie: </b>
+        - Number of seasons
+        - Number of episodes        
+        - Details of each episode
+            - Name    
+            - Year 
+            - Storyline
+            - Genres
+            - Actors
+            - Trailer
+            - Poster
+            - Rating
+            - Duration   
+    end note
+
+    
+    ACSC2 --> ACSC3
+    ACS3 --> ACSC3
+    ACS4 --> ACSC3
+    ACSC3 --> [*]
+    ACSC3 --> ACS1    
+}
+
+state DELETE_CONTENT {
+    state DCS1 as " "
+    state DCS2 as " "    
+    state DCS3 as " "    
+    state DCSC1 <<choice>>   
+    state DCSC2 <<choice>>   
+
+    [*] --> DCS1
+    DCS1 --> DCSC1 
+    note on link 
+        <b> System allows to: </b>
+        - Search 
+        - Filter
+    end note
+
+    DCSC1 --> DCS2
+    note on link 
+        <b> Search: </b>
+        - Name        
+    end note
+
+    DCSC1 --> DCS3
+    note on link 
+        <b> Filter: </b>
+        - Type of content (movie, series)
+        - Genre
+        - Rating
+        - Year          
+    end note
+
+    DCS2 --> DCSC2
+    DCS3 --> DCSC2
+    DCSC2 --> [*]
+    DCSC2 --> DCS1        
+}
+
+state EDIT_CONTENT {
+    state ECS1 as " "
+    state ECS2 as " "    
+    state ECS3 as " "    
+    state ECS4 as " "    
+    state ECSC1 <<choice>>   
+    state ECSC2 <<choice>>   
+    state ECSC3 <<choice>>   
+
+    [*] --> ECS1
+    ECS1 --> ECSC1 
+    note on link 
+        <b> System allows to: </b>
+        - Search 
+        - Filter
+    end note
+
+    ECSC1 --> ECS2
+    note on link 
+        <b> Search: </b>
+        - Name        
+    end note
+
+    ECSC1 --> ECS3
+    note on link 
+        <b> Filter: </b>
+        - Type of content (movie, series)
+        - Genre
+        - Rating
+        - Year          
+    end note
+
+    ECS2 --> ECSC2
+    ECS3 --> ECSC2
+    ECSC2 --> ECS4
+    note on link 
+        <b> System allows to: </b>
+        - Name
+        - Year 
+        - Storyline
+        - Genres
+        - Actors
+        - Trailer
+        - Poster
+        - Rate
+        - Duration   
+    end note
+
+    ECS4 --> ECSC3
+    ECSC3 --> [*]
+    ECSC3 --> ECS1     
+}
+
+[*] --> CONTENT_MANAGEMENT
+
+CONTENT_MANAGEMENT --> ADD_CONTENT
+CONTENT_MANAGEMENT --> DELETE_CONTENT
+CONTENT_MANAGEMENT -right-> EDIT_CONTENT
+
+state union <<choice>>
+ADD_CONTENT --> union 
+DELETE_CONTENT --> union 
+EDIT_CONTENT --> union 
+
+union --> [*]
+union -left-> CONTENT_MANAGEMENT
+
+@enduml

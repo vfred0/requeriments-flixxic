@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="2300px" preserveAspectRatio="none" style="width:1415px;height:2300px;background:#FFFFFF;" version="1.1" viewBox="0 0 1415 2300" width="1415px" zoomAndPan="magnify"><defs/><g><ellipse cx="633.23" cy="16" fill="#222222" rx="10" ry="10" style="stroke:none;stroke-width:1.0;"/><g id="CONTENT_MANAGEMENT"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="196" x="535.23" y="513.9"/><line style="stroke:#181818;stroke-width:0.5;" x1="535.23" x2="731.23" y1="540.6999" y2="540.6999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="176" x="545.23" y="531.9059">CONTENT_MANAGEMENT</text></g><g id="elem_union"><polygon fill="#F1F1F1" points="666.23,2190.6,678.23,2202.6,666.23,2214.6,654.23,2202.6,666.23,2190.6" style="stroke:#181818;stroke-width:0.5;"/></g><ellipse cx="666.23" cy="2284.6" fill="none" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><ellipse cx="666.73" cy="2285.1" fill="#222222" rx="6" ry="6" style="stroke:none;stroke-width:1.0;"/><path d="M193.35,1051.8 L649.11,1051.8 A12.5,12.5 0 0 1 661.61,1064.3 L661.61,1078.5999 L180.85,1078.5999 L180.85,1064.3 A12.5,12.5 0 0 1 193.35,1051.8 " fill="#F1F1F1" style="stroke:#F1F1F1;stroke-width:1.0;"/><rect fill="none" height="1078.7999" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="480.76" x="180.85" y="1051.8"/><line style="stroke:#181818;stroke-width:0.5;" x1="180.85" x2="661.61" y1="1078.5999" y2="1078.5999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="105" x="368.73" y="1069.8059">ADD_CONTENT</text><g id="ADD_CONTENT.ACS1"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="50" x="517.5" y="1146.5999"/><line style="stroke:#181818;stroke-width:0.5;" x1="517.5" x2="567.5" y1="1173.3999" y2="1173.3999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="540.5" y="1164.6059"> </text></g><g id="ADD_CONTENT.ACS2"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="50" x="252.5" y="1534.5999"/><line style="stroke:#181818;stroke-width:0.5;" x1="252.5" x2="302.5" y1="1561.3999" y2="1561.3999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="275.5" y="1552.6059"> </text></g><g id="ADD_CONTENT.ACS3"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="50" x="436.5" y="1602.5999"/><line style="stroke:#181818;stroke-width:0.5;" x1="436.5" x2="486.5" y1="1629.3999" y2="1629.3999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="459.5" y="1620.6059"> </text></g><g id="ADD_CONTENT.ACS4"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="50" x="290.5" y="1952.5999"/><line style="stroke:#181818;stroke-width:0.5;" x1="290.5" x2="340.5" y1="1979.3999" y2="1979.3999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="313.5" y="1970.6059"> </text></g><g id="elem_ACSC1"><polygon fill="#F1F1F1" points="443.5,1298.5999,455.5,1310.5999,443.5,1322.5999,431.5,1310.5999,443.5,1298.5999" style="stroke:#181818;stroke-width:0.5;"/></g><g id="elem_ACSC2"><polygon fill="#F1F1F1" points="277.5,1670.5999,289.5,1682.5999,277.5,1694.5999,265.5,1682.5999,277.5,1670.5999" style="stroke:#181818;stroke-width:0.5;"/></g><g id="elem_ACSC3"><polygon fill="#F1F1F1" points="461.5,2039.5999,473.5,2051.5999,461.5,2063.5999,449.5,2051.5999,461.5,2039.5999" style="stroke:#181818;stroke-width:0.5;"/></g><ellipse cx="542.5" cy="1099.5999" fill="#222222" rx="10" ry="10" style="stroke:none;stroke-width:1.0;"/><ellipse cx="461.5" cy="2110.5999" fill="none" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><ellipse cx="462" cy="2111.0999" fill="#222222" rx="6" ry="6" style="stroke:none;stroke-width:1.0;"/><!--MD5=[b3141f9168e18fb96e209c9ea3e64182]
+link *start*ADD_CONTENT to ACS1--><g id="link_*start*ADD_CONTENT_ACS1"><path d="M542.5,1110.0399 C542.5,1117.8499 542.5,1129.3899 542.5,1140.3099 " fill="none" id="*start*ADD_CONTENT-to-ACS1" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="542.5,1145.2799,546.5,1136.2799,542.5,1140.2799,538.5,1136.2799,542.5,1145.2799" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[1d37679425ed7d798427d92215535fcc]
+link ACS1 to ACSC1--><g id="link_ACS1_ACSC1"><path d="M517.18,1184.2899 C504.09,1191.4399 488.75,1201.6999 478.5,1214.5999 C459.47,1238.5399 450.14,1273.8299 446.12,1293.9699 " fill="none" id="ACS1-to-ACSC1" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="445.03,1298.7099,450.6315,1290.6091,445.9583,1293.7969,442.7706,1289.1237,445.03,1298.7099" style="stroke:#181818;stroke-width:1.0;"/><path d="M483.5,1219.5999 L483.5,1275.5999 L622.5,1275.5999 L622.5,1229.5999 L612.5,1219.5999 L483.5,1219.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M612.5,1219.5999 L612.5,1229.5999 L622.5,1229.5999 L612.5,1219.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="110" x="493.5" y="1236.6769">System allows to:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="57" x="489.5" y="1252.277">- Use API</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="60" x="489.5" y="1267.877">- Manually</text></g><!--MD5=[f44f0678449f39ff85d33440daf6af7a]
+link ACSC1 to ACS2--><g id="link_ACSC1_ACS2"><path d="M432.31,1311.7899 C398.49,1312.6099 298.38,1317.0299 278.5,1340.5999 C233.8,1393.5899 252.55,1482.3499 266.84,1528.5699 " fill="none" id="ACSC1-to-ACS2" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="268.65,1533.2599,269.7584,1523.4736,267.1464,1528.4914,262.1287,1525.8794,268.65,1533.2599" style="stroke:#181818;stroke-width:1.0;"/><path d="M283.5,1345.5999 L283.5,1511.5999 L416.5,1511.5999 L416.5,1355.5999 L406.5,1345.5999 L283.5,1345.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M406.5,1345.5999 L406.5,1355.5999 L416.5,1355.5999 L406.5,1345.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="60" x="293.5" y="1362.6769">Manually:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="42" x="289.5" y="1378.277">- Name</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="35" x="289.5" y="1393.877">- Year</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="59" x="289.5" y="1409.477">- Storyline</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="50" x="289.5" y="1425.077">- Genres</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="46" x="289.5" y="1440.677">- Actors</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="44" x="289.5" y="1456.277">- Trailer</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="46" x="289.5" y="1471.877">- Poster</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="45" x="289.5" y="1487.477">- Rating</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="56" x="289.5" y="1503.0771">- Duration</text></g><!--MD5=[b60803962aebe6a940c70bdadff3ed75]
+link ACSC1 to ACS3--><g id="link_ACSC1_ACS3"><path d="M442.98,1322.7399 C441.65,1353.5899 438.65,1442.7999 444.5,1516.5999 C446.66,1543.8299 451.62,1574.5299 455.63,1596.5699 " fill="none" id="ACSC1-to-ACS3" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="456.67,1601.2599,458.9563,1591.6801,455.7555,1596.3443,451.0913,1593.1434,456.67,1601.2599" style="stroke:#181818;stroke-width:1.0;"/><path d="M449.5,1400.5999 L449.5,1456.5999 L622.5,1456.5999 L622.5,1410.5999 L612.5,1400.5999 L449.5,1400.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M612.5,1400.5999 L612.5,1410.5999 L622.5,1410.5999 L612.5,1400.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="53" x="459.5" y="1417.6769">Use API:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="124" x="471.5" y="1433.277">- Insert content name</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="136" x="471.5" y="1448.877">- Select type of content</text></g><!--MD5=[fccc786fb716862dcf855c0c568b0bcc]
+link ACS2 to ACSC2--><g id="link_ACS2_ACSC2"><path d="M277.5,1585.0899 C277.5,1608.4899 277.5,1643.1999 277.5,1663.9999 " fill="none" id="ACS2-to-ACSC2" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="277.5,1668.9699,281.5,1659.9699,277.5,1663.9699,273.5,1659.9699,277.5,1668.9699" style="stroke:#181818;stroke-width:1.0;"/><path d="M282.5,1615.0999 L282.5,1640.0999 L353.5,1640.0999 L353.5,1625.0999 L343.5,1615.0999 L282.5,1615.0999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M343.5,1615.0999 L343.5,1625.0999 L353.5,1625.0999 L343.5,1615.0999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="50" x="288.5" y="1632.1769">Is serie?</text></g><!--MD5=[bc8c32f95d614e36d24d9022d932c3a6]
+link ACSC2 to ACS4--><g id="link_ACSC2_ACS4"><path d="M269.73,1687.2099 C261.01,1691.7499 247.32,1700.4399 241.5,1712.5999 C198.91,1801.5999 191.85,1849.3299 241.5,1934.5999 C250.85,1950.6599 268.88,1961.0699 284.8,1967.5199 " fill="none" id="ACSC2-to-ACS4" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="289.1,1969.5499,282.1401,1962.5815,284.4344,1967.7522,279.2637,1970.0465,289.1,1969.5499" style="stroke:#181818;stroke-width:1.0;"/><path d="M246.5,1717.5999 L246.5,1929.5999 L423.5,1929.5999 L423.5,1727.5999 L413.5,1717.5999 L246.5,1717.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M413.5,1717.5999 L413.5,1727.5999 L423.5,1727.5999 L413.5,1717.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="80" x="256.5" y="1734.6769">Deatils serie:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="121" x="252.5" y="1750.277">- Number of seasons</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="124" x="252.5" y="1765.877">- Number of episodes</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="144" x="252.5" y="1781.477">- Details of each episode</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="42" x="268.5" y="1797.077">- Name</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="35" x="268.5" y="1812.677">- Year</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="59" x="268.5" y="1828.277">- Storyline</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="50" x="268.5" y="1843.877">- Genres</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="46" x="268.5" y="1859.477">- Actors</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="44" x="268.5" y="1875.0771">- Trailer</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="46" x="268.5" y="1890.6771">- Poster</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="45" x="268.5" y="1906.2771">- Rating</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="56" x="268.5" y="1921.8771">- Duration</text></g><!--MD5=[c23b10c79d12f3c856b721a76909d2e3]
+link ACSC2 to ACSC3--><g id="link_ACSC2_ACSC3"><path d="M288.55,1684.0699 C320.1,1685.6399 409.62,1691.8899 428.5,1712.5999 C471.89,1760.1999 465.25,1972.7699 462.38,2034.0299 " fill="none" id="ACSC2-to-ACSC3" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="462.1,2038.7899,466.5319,2029.9946,462.3426,2033.7958,458.5413,2029.6065,462.1,2038.7899" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[abe166a273c4ba907359f97241cc50ee]
+link ACS3 to ACSC3--><g id="link_ACS3_ACSC3"><path d="M462,1652.9899 C463.09,1706.9699 465.64,1840.6499 466.5,1952.5999 C466.74,1983.2699 469.11,1991.0499 466.5,2021.5999 C466.12,2026.0799 465.41,2030.9099 464.64,2035.3099 " fill="none" id="ACS3-to-ACSC3" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="463.58,2039.9899,469.1587,2031.8734,464.4945,2035.0743,461.2937,2030.4101,463.58,2039.9899" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[e051f35b3234d5b1c11d74dfabd6536e]
+link ACS4 to ACSC3--><g id="link_ACS4_ACSC3"><path d="M340.93,1991.1399 C372.4,2006.6599 424.74,2032.4699 448.75,2044.3099 " fill="none" id="ACS4-to-ACSC3" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="452.96,2046.8799,446.6603,2039.3094,448.4765,2044.6667,443.1191,2046.483,452.96,2046.8799" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f99c0f37739126df2dfc9725616f1115]
+link ACSC3 to *end*ADD_CONTENT--><g id="link_ACSC3_*end*ADD_CONTENT"><path d="M461.5,2064.1299 C461.5,2072.8899 461.5,2084.9999 461.5,2094.5199 " fill="none" id="ACSC3-to-*end*ADD_CONTENT" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="461.5,2099.3399,465.5,2090.3399,461.5,2094.3399,457.5,2090.3399,461.5,2099.3399" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[9ba8c4202eabdb843aad9f8e32d518c9]
+link ACSC3 to ACS1--><g id="link_ACSC3_ACS1"><path d="M473.59,2051.2099 C513.95,2052.5699 641.5,2051.1299 641.5,1978.5999 C641.5,1309.5999 641.5,1309.5999 641.5,1309.5999 C641.5,1266.9199 652.61,1249.1099 627.5,1214.5999 C614.6,1196.8699 592.11,1186.2199 573.5,1180.0799 " fill="none" id="ACSC3-to-ACS1" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="568.86,1178.3199,576.2461,1184.8349,573.6299,1179.8194,578.6453,1177.2032,568.86,1178.3199" style="stroke:#181818;stroke-width:1.0;"/></g><path d="M708.89,1299.8 L1113.56,1299.8 A12.5,12.5 0 0 1 1126.06,1312.3 L1126.06,1326.5999 L696.39,1326.5999 L696.39,1312.3 A12.5,12.5 0 0 1 708.89,1299.8 " fill="#F1F1F1" style="stroke:#F1F1F1;stroke-width:1.0;"/><rect fill="none" height="582.7999" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="429.67" x="696.39" y="1299.8"/><line style="stroke:#181818;stroke-width:0.5;" x1="696.39" x2="1126.06" y1="1326.5999" y2="1326.5999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="130" x="846.225" y="1317.8059">DELETE_CONTENT</text><g id="DELETE_CONTENT.DCS1"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="50" x="933.52" y="1394.5999"/><line style="stroke:#181818;stroke-width:0.5;" x1="933.52" x2="983.52" y1="1421.3999" y2="1421.3999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="956.52" y="1412.6059"> </text></g><g id="DELETE_CONTENT.DCS2"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="50" x="717.52" y="1704.5999"/><line style="stroke:#181818;stroke-width:0.5;" x1="717.52" x2="767.52" y1="1731.3999" y2="1731.3999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="740.52" y="1722.6059"> </text></g><g id="DELETE_CONTENT.DCS3"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="50" x="815.52" y="1704.5999"/><line style="stroke:#181818;stroke-width:0.5;" x1="815.52" x2="865.52" y1="1731.3999" y2="1731.3999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="838.52" y="1722.6059"> </text></g><g id="elem_DCSC1"><polygon fill="#F1F1F1" points="840.52,1546.5999,852.52,1558.5999,840.52,1570.5999,828.52,1558.5999,840.52,1546.5999" style="stroke:#181818;stroke-width:0.5;"/></g><g id="elem_DCSC2"><polygon fill="#F1F1F1" points="840.52,1791.5999,852.52,1803.5999,840.52,1815.5999,828.52,1803.5999,840.52,1791.5999" style="stroke:#181818;stroke-width:0.5;"/></g><ellipse cx="958.52" cy="1347.5999" fill="#222222" rx="10" ry="10" style="stroke:none;stroke-width:1.0;"/><ellipse cx="840.52" cy="1862.5999" fill="none" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><ellipse cx="841.02" cy="1863.0999" fill="#222222" rx="6" ry="6" style="stroke:none;stroke-width:1.0;"/><!--MD5=[a3976961cdfc47de0f81ee0d324dc09a]
+link *start*DELETE_CONTENT to DCS1--><g id="link_*start*DELETE_CONTENT_DCS1"><path d="M958.52,1358.0399 C958.52,1365.8499 958.52,1377.3899 958.52,1388.3099 " fill="none" id="*start*DELETE_CONTENT-to-DCS1" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="958.52,1393.2799,962.52,1384.2799,958.52,1388.2799,954.52,1384.2799,958.52,1393.2799" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[3f70db49714d46c62b66cd94df8993d6]
+link DCS1 to DCSC1--><g id="link_DCS1_DCSC1"><path d="M933.38,1442.0399 C926.38,1448.4099 918.94,1455.5699 912.52,1462.5999 C886.77,1490.8299 860.71,1527.7599 848.18,1546.1499 " fill="none" id="DCS1-to-DCSC1" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="845.02,1549.8199,853.3737,1544.6031,847.8198,1545.6773,846.7456,1540.1234,845.02,1549.8199" style="stroke:#181818;stroke-width:1.0;"/><path d="M917.52,1467.5999 L917.52,1523.5999 L1056.52,1523.5999 L1056.52,1477.5999 L1046.52,1467.5999 L917.52,1467.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M1046.52,1467.5999 L1046.52,1477.5999 L1056.52,1477.5999 L1046.52,1467.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="110" x="927.52" y="1484.6769">System allows to:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="49" x="923.52" y="1500.277">- Search</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="37" x="923.52" y="1515.877">- Filter</text></g><!--MD5=[06002ea0e7898fc9ec84c2339fff4be4]
+link DCSC1 to DCS2--><g id="link_DCSC1_DCS2"><path d="M830.37,1560.7399 C805.69,1563.7499 743.7,1572.7599 731.52,1588.5999 C707.39,1619.9899 718.3,1667.8899 729.51,1698.7199 " fill="none" id="DCSC1-to-DCS2" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="731.6,1703.2799,732.1753,1693.4479,729.8397,1698.6,724.6875,1696.2644,731.6,1703.2799" style="stroke:#181818;stroke-width:1.0;"/><path d="M736.52,1617.0999 L736.52,1658.0999 L831.52,1658.0999 L831.52,1627.0999 L821.52,1617.0999 L736.52,1617.0999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M821.52,1617.0999 L821.52,1627.0999 L831.52,1627.0999 L821.52,1617.0999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="47" x="746.52" y="1634.1769">Search:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="42" x="742.52" y="1649.777">- Name</text></g><!--MD5=[e85354f58e5e1e6fd2d676aa4eedc625]
+link DCSC1 to DCS3--><g id="link_DCSC1_DCS3"><path d="M840.52,1571.2199 C840.52,1597.1199 840.52,1660.3399 840.52,1698.2999 " fill="none" id="DCSC1-to-DCS3" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="840.52,1703.1599,844.52,1694.1599,840.52,1698.1599,836.52,1694.1599,840.52,1703.1599" style="stroke:#181818;stroke-width:1.0;"/><path d="M845.52,1593.5999 L845.52,1681.5999 L1055.52,1681.5999 L1055.52,1603.5999 L1045.52,1593.5999 L845.52,1593.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M1045.52,1593.5999 L1045.52,1603.5999 L1055.52,1603.5999 L1045.52,1593.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="36" x="855.52" y="1610.6769">Filter:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="189" x="851.52" y="1626.277">- Type of content (movie, series)</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="43" x="851.52" y="1641.877">- Genre</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="45" x="851.52" y="1657.477">- Rating</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="35" x="851.52" y="1673.077">- Year</text></g><!--MD5=[17f7e0a17aa95c317a42bd479eb702c6]
+link DCS2 to DCSC2--><g id="link_DCS2_DCSC2"><path d="M768.02,1749.3299 C787.99,1763.9999 814.79,1783.6999 829.58,1794.5599 " fill="none" id="DCS2-to-DCSC2" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="833.11,1797.8799,828.2218,1789.3298,829.0793,1794.9212,823.4879,1795.7788,833.11,1797.8799" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[15004effc0704267013e4f008569baa7]
+link DCS3 to DCSC2--><g id="link_DCS3_DCSC2"><path d="M840.52,1754.9799 C840.52,1764.9199 840.52,1776.1899 840.52,1785.2699 " fill="none" id="DCS3-to-DCSC2" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="840.52,1790.1599,844.52,1781.1599,840.52,1785.1599,836.52,1781.1599,840.52,1790.1599" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[1f152ad487637c8846e5e987b99adbcc]
+link DCSC2 to *end*DELETE_CONTENT--><g id="link_DCSC2_*end*DELETE_CONTENT"><path d="M840.52,1816.1299 C840.52,1824.8899 840.52,1836.9999 840.52,1846.5199 " fill="none" id="DCSC2-to-*end*DELETE_CONTENT" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="840.52,1851.3399,844.52,1842.3399,840.52,1846.3399,836.52,1842.3399,840.52,1851.3399" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d700204aab7b477654f817e16615b784]
+link DCSC2 to DCS1--><g id="link_DCSC2_DCS1"><path d="M850.46,1801.0299 C886.76,1794.7199 1012.66,1767.4399 1061.52,1686.5999 C1113.03,1601.3999 1117.06,1545.2199 1061.52,1462.5999 C1045.57,1438.8599 1013.59,1428.5299 989.48,1424.0399 " fill="none" id="DCSC2-to-DCS1" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="984.84,1423.0699,993.0188,1428.5569,989.7656,1423.929,994.3934,1420.6758,984.84,1423.0699" style="stroke:#181818;stroke-width:1.0;"/></g><path d="M884.49,86 L1259.96,86 A12.5,12.5 0 0 1 1272.46,98.5 L1272.46,112.7999 L871.99,112.7999 L871.99,98.5 A12.5,12.5 0 0 1 884.49,86 " fill="#F1F1F1" style="stroke:#F1F1F1;stroke-width:1.0;"/><rect fill="none" height="905.7999" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="400.47" x="871.99" y="86"/><line style="stroke:#181818;stroke-width:0.5;" x1="871.99" x2="1272.46" y1="112.7999" y2="112.7999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="108" x="1018.225" y="104.0059">EDIT_CONTENT</text><g id="EDIT_CONTENT.ECS1"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="50" x="1109.12" y="180.7999"/><line style="stroke:#181818;stroke-width:0.5;" x1="1109.12" x2="1159.12" y1="207.5999" y2="207.5999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="1132.12" y="198.8059"> </text></g><g id="EDIT_CONTENT.ECS2"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="50" x="893.12" y="490.7999"/><line style="stroke:#181818;stroke-width:0.5;" x1="893.12" x2="943.12" y1="517.5999" y2="517.5999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="916.12" y="508.8059"> </text></g><g id="EDIT_CONTENT.ECS3"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="50" x="991.12" y="490.7999"/><line style="stroke:#181818;stroke-width:0.5;" x1="991.12" x2="1041.12" y1="517.5999" y2="517.5999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="1014.12" y="508.8059"> </text></g><g id="EDIT_CONTENT.ECS4"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="50" x="1118.12" y="813.7999"/><line style="stroke:#181818;stroke-width:0.5;" x1="1118.12" x2="1168.12" y1="840.5999" y2="840.5999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="1141.12" y="831.8059"> </text></g><g id="elem_ECSC1"><polygon fill="#F1F1F1" points="1016.12,332.7999,1028.12,344.7999,1016.12,356.7999,1004.12,344.7999,1016.12,332.7999" style="stroke:#181818;stroke-width:0.5;"/></g><g id="elem_ECSC2"><polygon fill="#F1F1F1" points="1016.12,577.7999,1028.12,589.7999,1016.12,601.7999,1004.12,589.7999,1016.12,577.7999" style="stroke:#181818;stroke-width:0.5;"/></g><g id="elem_ECSC3"><polygon fill="#F1F1F1" points="1224.12,900.7999,1236.12,912.7999,1224.12,924.7999,1212.12,912.7999,1224.12,900.7999" style="stroke:#181818;stroke-width:0.5;"/></g><ellipse cx="1134.12" cy="133.7999" fill="#222222" rx="10" ry="10" style="stroke:none;stroke-width:1.0;"/><ellipse cx="1224.12" cy="971.7999" fill="none" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><ellipse cx="1224.62" cy="972.2999" fill="#222222" rx="6" ry="6" style="stroke:none;stroke-width:1.0;"/><!--MD5=[069207fbd6ac0c07d268b96cfcbdcf4b]
+link *start*EDIT_CONTENT to ECS1--><g id="link_*start*EDIT_CONTENT_ECS1"><path d="M1134.12,144.2399 C1134.12,152.0499 1134.12,163.5899 1134.12,174.5099 " fill="none" id="*start*EDIT_CONTENT-to-ECS1" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1134.12,179.4799,1138.12,170.4799,1134.12,174.4799,1130.12,170.4799,1134.12,179.4799" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[02a51aac6556aff66cf6acb1f7982cd4]
+link ECS1 to ECSC1--><g id="link_ECS1_ECSC1"><path d="M1108.98,228.2399 C1101.98,234.6099 1094.54,241.7699 1088.12,248.7999 C1062.37,277.0299 1036.31,313.9599 1023.78,332.3499 " fill="none" id="ECS1-to-ECSC1" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1020.62,336.0199,1028.9737,330.8031,1023.4198,331.8773,1022.3456,326.3234,1020.62,336.0199" style="stroke:#181818;stroke-width:1.0;"/><path d="M1093.12,253.7999 L1093.12,309.7999 L1232.12,309.7999 L1232.12,263.7999 L1222.12,253.7999 L1093.12,253.7999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M1222.12,253.7999 L1222.12,263.7999 L1232.12,263.7999 L1222.12,253.7999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="110" x="1103.12" y="270.8769">System allows to:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="49" x="1099.12" y="286.477">- Search</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="37" x="1099.12" y="302.077">- Filter</text></g><!--MD5=[eb8e8bd55c9d80542e2bb56074b84c44]
+link ECSC1 to ECS2--><g id="link_ECSC1_ECS2"><path d="M1005.97,346.9399 C981.29,349.9499 919.3,358.9599 907.12,374.7999 C882.99,406.1899 893.9,454.0899 905.11,484.9199 " fill="none" id="ECSC1-to-ECS2" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="907.2,489.4799,907.7753,479.6479,905.4397,484.8,900.2875,482.4644,907.2,489.4799" style="stroke:#181818;stroke-width:1.0;"/><path d="M912.12,403.2999 L912.12,444.2999 L1007.12,444.2999 L1007.12,413.2999 L997.12,403.2999 L912.12,403.2999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M997.12,403.2999 L997.12,413.2999 L1007.12,413.2999 L997.12,403.2999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="47" x="922.12" y="420.3769">Search:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="42" x="918.12" y="435.977">- Name</text></g><!--MD5=[24ebe52eabed86ecf8283042c7a9cd20]
+link ECSC1 to ECS3--><g id="link_ECSC1_ECS3"><path d="M1016.12,357.4199 C1016.12,383.3199 1016.12,446.5399 1016.12,484.4999 " fill="none" id="ECSC1-to-ECS3" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1016.12,489.3599,1020.12,480.3599,1016.12,484.3599,1012.12,480.3599,1016.12,489.3599" style="stroke:#181818;stroke-width:1.0;"/><path d="M1021.12,379.7999 L1021.12,467.7999 L1231.12,467.7999 L1231.12,389.7999 L1221.12,379.7999 L1021.12,379.7999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M1221.12,379.7999 L1221.12,389.7999 L1231.12,389.7999 L1221.12,379.7999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="36" x="1031.12" y="396.8769">Filter:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="189" x="1027.12" y="412.477">- Type of content (movie, series)</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="43" x="1027.12" y="428.077">- Genre</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="45" x="1027.12" y="443.677">- Rating</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="35" x="1027.12" y="459.277">- Year</text></g><!--MD5=[1c9f1c182bb9ef3f673a70ef6d6834bc]
+link ECS2 to ECSC2--><g id="link_ECS2_ECSC2"><path d="M943.62,535.5299 C963.59,550.1999 990.39,569.8999 1005.18,580.7599 " fill="none" id="ECS2-to-ECSC2" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1008.71,584.0799,1003.8218,575.5298,1004.6793,581.1212,999.0879,581.9788,1008.71,584.0799" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[cd90fa54cd1ee0175e84894795add411]
+link ECS3 to ECSC2--><g id="link_ECS3_ECSC2"><path d="M1016.12,541.1799 C1016.12,551.1199 1016.12,562.3899 1016.12,571.4699 " fill="none" id="ECS3-to-ECSC2" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1016.12,576.3599,1020.12,567.3599,1016.12,571.3599,1012.12,567.3599,1016.12,576.3599" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d77a55650e479c7d019d3b886197eeef]
+link ECSC2 to ECS4--><g id="link_ECSC2_ECS4"><path d="M1017.54,600.7099 C1022.42,632.0399 1040.91,730.7899 1088.12,795.7999 C1094.86,805.0699 1104.21,813.2699 1113.3,819.8999 " fill="none" id="ECSC2-to-ECS4" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1116.72,823.0299,1111.6763,814.5705,1112.636,820.1454,1107.0611,821.105,1116.72,823.0299" style="stroke:#181818;stroke-width:1.0;"/><path d="M1093.12,624.7999 L1093.12,790.7999 L1232.12,790.7999 L1232.12,634.7999 L1222.12,624.7999 L1093.12,624.7999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M1222.12,624.7999 L1222.12,634.7999 L1232.12,634.7999 L1222.12,624.7999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="110" x="1103.12" y="641.8769">System allows to:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="42" x="1099.12" y="657.477">- Name</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="35" x="1099.12" y="673.077">- Year</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="59" x="1099.12" y="688.677">- Storyline</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="50" x="1099.12" y="704.277">- Genres</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="46" x="1099.12" y="719.877">- Actors</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="44" x="1099.12" y="735.477">- Trailer</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="46" x="1099.12" y="751.077">- Poster</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="35" x="1099.12" y="766.677">- Rate</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="56" x="1099.12" y="782.2771">- Duration</text></g><!--MD5=[8dbcf5aacb55c07df86667c31dd7b986]
+link ECS4 to ECSC3--><g id="link_ECS4_ECSC3"><path d="M1168.31,862.1899 C1183.59,875.7699 1202.28,892.3799 1213.69,902.5199 " fill="none" id="ECS4-to-ECSC3" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1217.1,905.4399,1213.0138,896.4788,1213.3567,902.1252,1207.7102,902.4681,1217.1,905.4399" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c993e1ddaa776e1e5658478717763089]
+link ECSC3 to *end*EDIT_CONTENT--><g id="link_ECSC3_*end*EDIT_CONTENT"><path d="M1224.12,925.3299 C1224.12,934.0899 1224.12,946.1999 1224.12,955.7199 " fill="none" id="ECSC3-to-*end*EDIT_CONTENT" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1224.12,960.5399,1228.12,951.5399,1224.12,955.5399,1220.12,951.5399,1224.12,960.5399" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[9fa44dbad4bb40bd8d9894f66553b56f]
+link ECSC3 to ECS1--><g id="link_ECSC3_ECS1"><path d="M1228.58,904.9699 C1236.25,892.5399 1251.12,865.1699 1251.12,839.7999 C1251.12,343.7999 1251.12,343.7999 1251.12,343.7999 C1251.12,301.1199 1263.46,282.3899 1237.12,248.7999 C1219.77,226.6599 1188.82,216.1199 1165.36,211.1499 " fill="none" id="ECSC3-to-ECS1" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1160.57,209.9999,1168.6235,215.6693,1165.4751,210.9695,1170.1748,207.8212,1160.57,209.9999" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[5b976f1c0cf0de97d5b06f127151238e]
+link *start to CONTENT_MANAGEMENT--><g id="link_*start_CONTENT_MANAGEMENT"><path d="M633.23,26.49 C633.23,85.9 633.23,407.56 633.23,507.95 " fill="none" id="*start-to-CONTENT_MANAGEMENT" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="633.23,512.69,637.23,503.69,633.23,507.69,629.23,503.69,633.23,512.69" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[a151b4679bf58c3499ea38e5fecfad87]
+link CONTENT_MANAGEMENT to ADD_CONTENT--><g id="link_CONTENT_MANAGEMENT_ADD_CONTENT"><path d="M628.3,564.32 C614.4,633.16 573.17,837.44 531.12,1045.76 " fill="none" id="CONTENT_MANAGEMENT-to-ADD_CONTENT" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="529.94,1050.62,535.6364,1042.5856,530.9261,1045.7182,527.7935,1041.0079,529.94,1050.62" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[52ae7e7ec2420ed772a40f1efeb6e358]
+link CONTENT_MANAGEMENT to DELETE_CONTENT--><g id="link_CONTENT_MANAGEMENT_DELETE_CONTENT"><path d="M639.69,564.32 C665.35,661.29 762.13,1026.9 832.85,1294.11 " fill="none" id="CONTENT_MANAGEMENT-to-DELETE_CONTENT" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="834.31,1298.61,835.8596,1288.8838,833.0235,1293.7784,828.1289,1290.9423,834.31,1298.61" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[1edc9bc29ed43ce6541a04925f1a557a]
+link CONTENT_MANAGEMENT to EDIT_CONTENT--><g id="link_CONTENT_MANAGEMENT_EDIT_CONTENT"><path d="M731.4,538.9 C776.19,538.9 820.98,538.9 865.78,538.9 " fill="none" id="CONTENT_MANAGEMENT-to-EDIT_CONTENT" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="870.52,538.9,861.52,534.9,865.52,538.9,861.52,542.9,870.52,538.9" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[fbf71e5ff603b9326d22dea1cc7be548]
+link ADD_CONTENT to union--><g id="link_ADD_CONTENT_union"><path d="M637.88,2131.1 C648.01,2156.29 655.98,2176.11 660.85,2188.23 " fill="none" id="ADD_CONTENT-to-union" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="662.99,2192.56,663.3614,2182.7181,661.133,2187.9176,655.9336,2185.6893,662.99,2192.56" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[de1c0af78f792126c1c4f165abbdaca9]
+link DELETE_CONTENT to union--><g id="link_DELETE_CONTENT_union"><path d="M794.29,1883.07 C742.18,2012.68 688.72,2145.64 671.74,2187.87 " fill="none" id="DELETE_CONTENT-to-union" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="669.51,2192.43,676.5846,2185.578,671.3792,2187.7926,669.1647,2182.5872,669.51,2192.43" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[cb04b5b46b07c04aca76b2fa5bc8e5da]
+link EDIT_CONTENT to union--><g id="link_EDIT_CONTENT_union"><path d="M1244.19,992.08 C1345.78,1344.02 1408.57,1822.83 1143.23,2130.6 C1081.95,2201.67 762.26,2202.72 683.68,2201.88 " fill="none" id="EDIT_CONTENT-to-union" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="679.04,2201.81,687.9937,2205.9126,684.0397,2201.8671,688.0851,2197.9131,679.04,2201.81" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[579c1c469da73c5446fd0d518153c367]
+link union to *end--><g id="link_union_*end"><path d="M666.23,2215.06 C666.23,2229.1 666.23,2252.92 666.23,2268.45 " fill="none" id="union-to-*end" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="666.23,2273.16,670.23,2264.16,666.23,2268.16,662.23,2264.16,666.23,2273.16" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f24e0c61a7d12bcb05c34b862536c652]
+reverse link CONTENT_MANAGEMENT to union--><g id="link_CONTENT_MANAGEMENT_union"><path d="M591.96,567.72 C494.56,636.2 251.92,824.05 163.23,1051.8 C76.23,1275.19 6,1949.62 163.23,2130.6 C229.88,2207.33 584.29,2203.45 654.23,2201.91 " fill="none" id="CONTENT_MANAGEMENT-backto-union" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="595.76,564.35,586.0935,566.2365,591.6645,567.2183,590.6827,572.7893,595.76,564.35" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[163c8a2557216d2b36b4e9c66f23ce49]
+@startuml content-management
+state ADD_CONTENT {
+    state ACS1 as " "
+    state ACS2 as " "    
+    state ACS3 as " "    
+    state ACS4 as " "    
+    state ACSC1 <<choice>>   
+    state ACSC2 <<choice>>   
+    state ACSC3 <<choice>>   
+
+    [*] - -> ACS1
+    ACS1 - -> ACSC1 
+    note on link 
+        <b> System allows to: </b>
+        - Use API
+        - Manually
+    end note
+    ACSC1 - -> ACS2
+    note on link 
+        <b> Manually: </b>
+        - Name    
+        - Year 
+        - Storyline
+        - Genres
+        - Actors
+        - Trailer
+        - Poster
+        - Rating
+        - Duration              
+    end note
+
+    ACSC1 - -> ACS3 
+    note on link
+    <b> Use API: </b>
+        - Insert content name
+        - Select type of content
+    end note       
+    
+    ACS2 - -> ACSC2    
+    note on link 
+        Is serie?
+    end note
+
+    ACSC2  - -> ACS4
+    note on link 
+        <b> Deatils serie: </b>
+        - Number of seasons
+        - Number of episodes        
+        - Details of each episode
+            - Name    
+            - Year 
+            - Storyline
+            - Genres
+            - Actors
+            - Trailer
+            - Poster
+            - Rating
+            - Duration   
+    end note
+
+    
+    ACSC2 - -> ACSC3
+    ACS3 - -> ACSC3
+    ACS4 - -> ACSC3
+    ACSC3 - -> [*]
+    ACSC3 - -> ACS1    
+}
+
+state DELETE_CONTENT {
+    state DCS1 as " "
+    state DCS2 as " "    
+    state DCS3 as " "    
+    state DCSC1 <<choice>>   
+    state DCSC2 <<choice>>   
+
+    [*] - -> DCS1
+    DCS1 - -> DCSC1 
+    note on link 
+        <b> System allows to: </b>
+        - Search 
+        - Filter
+    end note
+
+    DCSC1 - -> DCS2
+    note on link 
+        <b> Search: </b>
+        - Name        
+    end note
+
+    DCSC1 - -> DCS3
+    note on link 
+        <b> Filter: </b>
+        - Type of content (movie, series)
+        - Genre
+        - Rating
+        - Year          
+    end note
+
+    DCS2 - -> DCSC2
+    DCS3 - -> DCSC2
+    DCSC2 - -> [*]
+    DCSC2 - -> DCS1        
+}
+
+state EDIT_CONTENT {
+    state ECS1 as " "
+    state ECS2 as " "    
+    state ECS3 as " "    
+    state ECS4 as " "    
+    state ECSC1 <<choice>>   
+    state ECSC2 <<choice>>   
+    state ECSC3 <<choice>>   
+
+    [*] - -> ECS1
+    ECS1 - -> ECSC1 
+    note on link 
+        <b> System allows to: </b>
+        - Search 
+        - Filter
+    end note
+
+    ECSC1 - -> ECS2
+    note on link 
+        <b> Search: </b>
+        - Name        
+    end note
+
+    ECSC1 - -> ECS3
+    note on link 
+        <b> Filter: </b>
+        - Type of content (movie, series)
+        - Genre
+        - Rating
+        - Year          
+    end note
+
+    ECS2 - -> ECSC2
+    ECS3 - -> ECSC2
+    ECSC2 - -> ECS4
+    note on link 
+        <b> System allows to: </b>
+        - Name
+        - Year 
+        - Storyline
+        - Genres
+        - Actors
+        - Trailer
+        - Poster
+        - Rate
+        - Duration   
+    end note
+
+    ECS4 - -> ECSC3
+    ECSC3 - -> [*]
+    ECSC3 - -> ECS1     
+}
+
+[*] - -> CONTENT_MANAGEMENT
+
+CONTENT_MANAGEMENT - -> ADD_CONTENT
+CONTENT_MANAGEMENT - -> DELETE_CONTENT
+CONTENT_MANAGEMENT -right-> EDIT_CONTENT
+
+state union <<choice>>
+ADD_CONTENT - -> union 
+DELETE_CONTENT - -> union 
+EDIT_CONTENT - -> union 
+
+union - -> [*]
+union -left-> CONTENT_MANAGEMENT
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 12:01:30 ECT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

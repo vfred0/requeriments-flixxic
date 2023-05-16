@@ -8,7 +8,7 @@
     - [Casos de uso para los administradores](#casos-de-uso-para-los-administradores)    
     - [Casos de uso para los usuarios](#casos-de-uso-para-los-usuarios)
     - [Contexto de casos de uso](#contexto-de-casos-de-uso)
-  - [Especicar casos de uso](#especificar-casos-de-uso)
+  - [Especificar casos de uso](#especificar-casos-de-uso)
 - [Referencias](#referencias)
 
 # Introducción 
@@ -107,7 +107,10 @@ Usuarios
 
 ## Especificar casos de uso
 Detalles de los casos de uso relacionados con la interacción que hace el usuario con el sistema y con la autenticación.
+Administradores
+![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/2-use-cases-specifications/admin/content-management.svg?raw=true)
 
+Usuarios
 ### Autenticación
 ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/2-use-cases-specifications/user/authentication.svg?raw=true)
 
