@@ -128,6 +128,11 @@ Interacción con el contenido
 
 ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/2-use-cases-specifications/user/content-interaction.svg?raw=true)
 
+
+Gestión del perfil
+
+![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/2-use-cases-specifications/user/profile-management.svg?raw=true)
+
 # Referencias
 Para llevar a cabo este proyecto, he utilizado como referencia los siguientes proyectos y agradezco a los autores por compartirlos:
 

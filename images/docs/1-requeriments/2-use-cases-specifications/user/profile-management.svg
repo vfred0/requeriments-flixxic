@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1759px" preserveAspectRatio="none" style="width:1090px;height:1759px;background:#FFFFFF;" version="1.1" viewBox="0 0 1090 1759" width="1090px" zoomAndPan="magnify"><defs/><g><ellipse cx="692.5" cy="16" fill="#222222" rx="10" ry="10" style="stroke:none;stroke-width:1.0;"/><g id="PROFILE_MANAGEMENT"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="188" x="598.5" y="86"/><line style="stroke:#181818;stroke-width:0.5;" x1="598.5" x2="786.5" y1="112.7999" y2="112.7999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="168" x="608.5" y="104.0059">PROFILE_MANAGEMENT</text></g><g id="SECURITY"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="90" x="324.5" y="396.4"/><line style="stroke:#181818;stroke-width:0.5;" x1="324.5" x2="414.5" y1="423.1999" y2="423.1999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70" x="334.5" y="414.4059">SECURITY</text></g><g id="elem_union"><polygon fill="#F1F1F1" points="690.5,1649.6,702.5,1661.6,690.5,1673.6,678.5,1661.6,690.5,1649.6" style="stroke:#181818;stroke-width:0.5;"/></g><ellipse cx="690.5" cy="1743.6" fill="none" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><ellipse cx="691" cy="1744.1" fill="#222222" rx="6" ry="6" style="stroke:none;stroke-width:1.0;"/><path d="M461.51,196 L923.49,196 A12.5,12.5 0 0 1 935.99,208.5 L935.99,222.7999 L449.01,222.7999 L449.01,208.5 A12.5,12.5 0 0 1 461.51,196 " fill="#F1F1F1" style="stroke:#F1F1F1;stroke-width:1.0;"/><rect fill="none" height="450.7999" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="486.98" x="449.01" y="196"/><line style="stroke:#181818;stroke-width:0.5;" x1="449.01" x2="935.99" y1="222.7999" y2="222.7999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="100" x="642.5" y="214.0059">EDIT_PROFILE</text><g id="EDIT_PROFILE.EPS1"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="50" x="575.99" y="290.7999"/><line style="stroke:#181818;stroke-width:0.5;" x1="575.99" x2="625.99" y1="317.5999" y2="317.5999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="598.99" y="308.8059"> </text></g><g id="EDIT_PROFILE.EPS2"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="50" x="468.99" y="490.2999"/><line style="stroke:#181818;stroke-width:0.5;" x1="468.99" x2="518.99" y1="517.0999" y2="517.0999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="491.99" y="508.3059"> </text></g><g id="elem_EPC1"><polygon fill="#F1F1F1" points="588.99,611.7999,600.99,623.7999,588.99,635.7999,576.99,623.7999,588.99,611.7999" style="stroke:#181818;stroke-width:0.5;"/></g><ellipse cx="600.99" cy="243.7999" fill="#222222" rx="10" ry="10" style="stroke:none;stroke-width:1.0;"/><!--MD5=[6cace0b7718319d61aa9f6709816bd16]
+link *start*EDIT_PROFILE to EPS1--><g id="link_*start*EDIT_PROFILE_EPS1"><path d="M600.99,254.2399 C600.99,262.0499 600.99,273.5899 600.99,284.5099 " fill="none" id="*start*EDIT_PROFILE-to-EPS1" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="600.99,289.4799,604.99,280.4799,600.99,284.4799,596.99,280.4799,600.99,289.4799" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f46feeb138c54acf9d5a4d8824f07852]
+link EPS1 to EPS2--><g id="link_EPS1_EPS2"><path d="M575.86,322.8299 C556.89,328.7399 531.84,339.7199 517.99,358.7999 C491.22,395.6899 489.15,450.5499 490.95,484.2799 " fill="none" id="EPS1-to-EPS2" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="491.3,488.9099,494.7522,479.6859,490.9997,483.919,486.7667,480.1664,491.3,488.9099" style="stroke:#181818;stroke-width:1.0;"/><path d="M522.99,363.7999 L522.99,466.7999 L688.99,466.7999 L688.99,373.7999 L678.99,363.7999 L522.99,363.7999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M678.99,363.7999 L678.99,373.7999 L688.99,373.7999 L678.99,363.7999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="137" x="532.99" y="380.8769">System allows edit to:</text><ellipse cx="534.49" cy="392.5" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="57" x="540.99" y="396.477">Full name</text><ellipse cx="534.49" cy="408.1" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="80" x="540.99" y="412.077">Profile picture</text><ellipse cx="534.49" cy="423.7" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="42" x="540.99" y="427.677">Gender</text><ellipse cx="534.49" cy="439.3" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="59" x="540.99" y="443.277">Username</text><ellipse cx="534.49" cy="454.9" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="71" x="540.99" y="458.877">Date of birth</text></g><!--MD5=[2caf7f67976dc4b15fe55d6d9898f0a8]
+link EPS2 to EPC1--><g id="link_EPS2_EPC1"><path d="M476.9,540.4699 C467.52,556.9599 460.01,578.4899 471.99,593.7999 C484.33,609.5699 543.61,617.9699 572.75,621.1999 " fill="none" id="EPS2-to-EPC1" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="577.48,621.8199,568.9674,616.8666,572.5095,621.2772,568.099,624.8193,577.48,621.8199" style="stroke:#181818;stroke-width:1.0;"/><path d="M476.99,563.7999 L476.99,588.7999 L688.99,588.7999 L688.99,573.7999 L678.99,563.7999 L476.99,563.7999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M678.99,563.7999 L678.99,573.7999 L688.99,573.7999 L678.99,563.7999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="151" x="486.99" y="580.8769">User provides requested</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="32" x="641.99" y="580.8769">        </text></g><!--MD5=[a6dcc66f12d26ebb8b6185cabe42ac41]
+link EPC1 to EPS1--><g id="link_EPC1_EPS1"><path d="M599.13,621.5499 C623.15,618.3599 682.36,609.0699 693.99,593.7999 C757.25,510.6999 750.64,446.5499 693.99,358.7999 C680.4,337.7599 653.46,327.1499 632.06,321.8699 " fill="none" id="EPC1-to-EPS1" style="stroke:#FF0000;stroke-width:1.0;"/><polygon fill="#FF0000" points="627.47,320.5699,635.3515,326.476,632.3441,321.6848,637.1353,318.6775,627.47,320.5699" style="stroke:#FF0000;stroke-width:1.0;"/><path d="M742.99,494.7999 L742.99,535.7999 L926.99,535.7999 L926.99,504.7999 L916.99,494.7999 L742.99,494.7999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M916.99,494.7999 L916.99,504.7999 L926.99,504.7999 L916.99,494.7999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="155" x="752.99" y="511.8769">System allows duplicate:</text><ellipse cx="754.49" cy="523.5" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="59" x="760.99" y="527.477">Username</text></g><path d="M19.5,706.8 L353.5,706.8 A12.5,12.5 0 0 1 366,719.3 L366,733.5999 L7,733.5999 L7,719.3 A12.5,12.5 0 0 1 19.5,706.8 " fill="#F1F1F1" style="stroke:#F1F1F1;stroke-width:1.0;"/><rect fill="none" height="882.7999" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="359" x="7" y="706.8"/><line style="stroke:#181818;stroke-width:0.5;" x1="7" x2="366" y1="733.5999" y2="733.5999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="109" x="132" y="724.8059">CHANGE_EMAIL</text><g id="CHANGE_EMAIL.SS2"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="50" x="96" y="801.5999"/><line style="stroke:#181818;stroke-width:0.5;" x1="96" x2="146" y1="828.3999" y2="828.3999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="119" y="819.6059"> </text></g><g id="CHANGE_EMAIL.SS3"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="50" x="19" y="938.5999"/><line style="stroke:#181818;stroke-width:0.5;" x1="19" x2="69" y1="965.3999" y2="965.3999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="42" y="956.6059"> </text></g><g id="CHANGE_EMAIL.SS4"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="50" x="74" y="1075.5999"/><line style="stroke:#181818;stroke-width:0.5;" x1="74" x2="124" y1="1102.3999" y2="1102.3999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="97" y="1093.6059"> </text></g><g id="CHANGE_EMAIL.SS5"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="50" x="149" y="1273.5999"/><line style="stroke:#181818;stroke-width:0.5;" x1="149" x2="199" y1="1300.3999" y2="1300.3999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="172" y="1291.6059"> </text></g><g id="elem_SSC2"><polygon fill="#F1F1F1" points="174,1162.5999,186,1174.5999,174,1186.5999,162,1174.5999,174,1162.5999" style="stroke:#181818;stroke-width:0.5;"/></g><g id="elem_SSC3"><polygon fill="#F1F1F1" points="174,1448.5999,186,1460.5999,174,1472.5999,162,1460.5999,174,1448.5999" style="stroke:#181818;stroke-width:0.5;"/></g><ellipse cx="121" cy="754.5999" fill="#222222" rx="10" ry="10" style="stroke:none;stroke-width:1.0;"/><ellipse cx="174" cy="1569.5999" fill="none" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><ellipse cx="174.5" cy="1570.0999" fill="#222222" rx="6" ry="6" style="stroke:none;stroke-width:1.0;"/><!--MD5=[b77ca3d08509585799b100e09f951c1b]
+link *start*CHANGE_EMAIL to SS2--><g id="link_*start*CHANGE_EMAIL_SS2"><path d="M121,765.0399 C121,772.8499 121,784.3899 121,795.3099 " fill="none" id="*start*CHANGE_EMAIL-to-SS2" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="121,800.2799,125,791.2799,121,795.2799,117,791.2799,121,800.2799" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[64b90b670298ed29c2941b196807b7b4]
+link SS2 to SS3--><g id="link_SS2_SS3"><path d="M95.8,833.7699 C77.62,839.6699 54.36,850.5899 43,869.5999 C31.82,888.3199 32.71,913.1599 36.05,932.4699 " fill="none" id="SS2-to-SS3" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="37.16,937.2699,39.4194,927.6837,36.2317,932.3569,31.5585,929.1691,37.16,937.2699" style="stroke:#181818;stroke-width:1.0;"/><path d="M48,874.5999 L48,915.5999 L182,915.5999 L182,884.5999 L172,874.5999 L48,874.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M172,874.5999 L172,884.5999 L182,884.5999 L172,874.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="105" x="58" y="891.6769">System requires:</text><ellipse cx="59.5" cy="903.3" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="57" x="66" y="907.277">Password</text></g><!--MD5=[0edc786cd71d04cc2a5ee8694b42b78d]
+link SS3 to SS4--><g id="link_SS3_SS4"><path d="M40.59,988.8499 C38.97,1008.4399 39.3,1036.1799 50,1057.5999 C54.48,1066.5599 61.81,1074.3899 69.45,1080.7799 " fill="none" id="SS3-to-SS4" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="72.71,1084.1799,68.1927,1075.4281,68.8098,1081.0512,63.1868,1081.6684,72.71,1084.1799" style="stroke:#181818;stroke-width:1.0;"/><path d="M55,1011.5999 L55,1052.5999 L174,1052.5999 L174,1021.5999 L164,1011.5999 L55,1011.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M164,1011.5999 L164,1021.5999 L174,1021.5999 L164,1011.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="90" x="65" y="1028.6769">User provides:</text><ellipse cx="66.5" cy="1040.3" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="57" x="73" y="1044.277">Password</text></g><!--MD5=[63ccfa73bcfd0352c0978b46e381ebd6]
+link SS4 to SSC2--><g id="link_SS4_SSC2"><path d="M124.39,1125.9799 C137.95,1138.9999 153.88,1154.2899 163.96,1163.9599 " fill="none" id="SS4-to-SSC2" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="167.15,1166.9799,163.4291,1157.861,163.5436,1163.5167,157.8879,1163.6312,167.15,1166.9799" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d307e483c50836e061c99a420a6cb6bc]
+link SSC2 to SS2--><g id="link_SSC2_SS2"><path d="M177.23,1165.3999 C191.28,1128.2799 243.94,973.3299 187,869.5999 C179.38,855.7299 165.03,845.7799 151.64,839.0599 " fill="none" id="SSC2-to-SS2" style="stroke:#FF0000;stroke-width:1.0;"/><polygon fill="#FF0000" points="147.38,836.5499,153.7759,844.0394,151.8914,838.7057,157.2251,836.8212,147.38,836.5499" style="stroke:#FF0000;stroke-width:1.0;"/><path d="M217,1019.5999 L217,1044.5999 L349,1044.5999 L349,1029.5999 L339,1019.5999 L217,1019.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M339,1019.5999 L339,1029.5999 L349,1029.5999 L339,1019.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="111" x="223" y="1036.6769">Password incorrect</text></g><!--MD5=[0a699f99dcab2eaafcebc1ec59af9bff]
+link SSC2 to SS5--><g id="link_SSC2_SS5"><path d="M174,1187.2999 C174,1205.5999 174,1241.5699 174,1267.4699 " fill="none" id="SSC2-to-SS5" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="174,1272.1599,178,1263.1599,174,1267.1599,170,1263.1599,174,1272.1599" style="stroke:#181818;stroke-width:1.0;"/><path d="M179,1209.5999 L179,1250.5999 L313,1250.5999 L313,1219.5999 L303,1209.5999 L179,1209.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M303,1209.5999 L303,1219.5999 L313,1219.5999 L303,1209.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="105" x="189" y="1226.6769">System requires:</text><ellipse cx="190.5" cy="1238.3" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="97" x="197" y="1242.277">Code verification</text></g><!--MD5=[2b3f19b4f8f33177a0a90851d278e6df]
+link SS5 to SSC3--><g id="link_SS5_SSC3"><path d="M148.68,1312.6199 C131.45,1323.0199 110.01,1339.3699 100,1360.5999 C90.33,1381.0999 89.18,1391.6799 100,1411.5999 C112.61,1434.8099 141.83,1448.5399 159.54,1455.0199 " fill="none" id="SS5-to-SSC3" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="164.07,1456.9399,156.8876,1450.201,159.3485,1455.2945,154.255,1457.7555,164.07,1456.9399" style="stroke:#181818;stroke-width:1.0;"/><path d="M105,1365.5999 L105,1406.5999 L235,1406.5999 L235,1375.5999 L225,1365.5999 L105,1365.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M225,1365.5999 L225,1375.5999 L235,1375.5999 L225,1365.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="90" x="115" y="1382.6769">User provides:</text><ellipse cx="116.5" cy="1394.3" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="97" x="123" y="1398.277">Code verification</text></g><!--MD5=[b66536cf47cef8a4130243306d9f8283]
+link SSC3 to SS5--><g id="link_SSC3_SS5"><path d="M182.46,1456.4599 C197.35,1450.4099 227.78,1435.5899 240,1411.5999 C250.29,1391.3999 249.08,1381.3699 240,1360.5999 C232.53,1343.5199 217.65,1329.0899 203.91,1318.5699 " fill="none" id="SSC3-to-SS5" style="stroke:#FF0000;stroke-width:1.0;"/><polygon fill="#FF0000" points="200.31,1315.1499,205.164,1323.7196,204.3288,1318.1247,209.9237,1317.2895,200.31,1315.1499" style="stroke:#FF0000;stroke-width:1.0;"/><path d="M252,1373.5999 L252,1398.5999 L357,1398.5999 L357,1383.5999 L347,1373.5999 L252,1373.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M347,1373.5999 L347,1383.5999 L357,1383.5999 L347,1373.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="84" x="258" y="1390.6769">Code incorrect</text></g><!--MD5=[17e666ea8b62e0d58b1a743b921032e0]
+link SSC3 to *end*CHANGE_EMAIL--><g id="link_SSC3_*end*CHANGE_EMAIL"><path d="M174,1473.0499 C174,1492.4799 174,1531.8999 174,1553.5399 " fill="none" id="SSC3-to-*end*CHANGE_EMAIL" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="174,1558.3999,178,1549.3999,174,1553.3999,170,1549.3999,174,1558.3999" style="stroke:#181818;stroke-width:1.0;"/><path d="M179,1495.5999 L179,1536.5999 L302,1536.5999 L302,1505.5999 L292,1495.5999 L179,1495.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M292,1495.5999 L292,1505.5999 L302,1505.5999 L292,1495.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="94" x="189" y="1512.6769">System allows:</text><ellipse cx="190.5" cy="1524.3" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="79" x="197" y="1528.277">Change email</text></g><path d="M413.5,849.8 L739.5,849.8 A12.5,12.5 0 0 1 752,862.3 L752,876.5999 L401,876.5999 L401,862.3 A12.5,12.5 0 0 1 413.5,849.8 " fill="#F1F1F1" style="stroke:#F1F1F1;stroke-width:1.0;"/><rect fill="none" height="596.7999" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="351" x="401" y="849.8"/><line style="stroke:#181818;stroke-width:0.5;" x1="401" x2="752" y1="876.5999" y2="876.5999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="147" x="503" y="867.8059">CHANGE_PASSWORD</text><g id="CHANGE_PASSWORD.CPS1"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="50" x="490" y="944.5999"/><line style="stroke:#181818;stroke-width:0.5;" x1="490" x2="540" y1="971.3999" y2="971.3999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="513" y="962.6059"> </text></g><g id="CHANGE_PASSWORD.CPS2"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="50" x="413" y="1081.5999"/><line style="stroke:#181818;stroke-width:0.5;" x1="413" x2="463" y1="1108.3999" y2="1108.3999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="436" y="1099.6059"> </text></g><g id="CHANGE_PASSWORD.CPS3"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="50" x="468" y="1218.5999"/><line style="stroke:#181818;stroke-width:0.5;" x1="468" x2="518" y1="1245.3999" y2="1245.3999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="491" y="1236.6059"> </text></g><g id="elem_CPSC1"><polygon fill="#F1F1F1" points="568,1305.5999,580,1317.5999,568,1329.5999,556,1317.5999,568,1305.5999" style="stroke:#181818;stroke-width:0.5;"/></g><ellipse cx="515" cy="897.5999" fill="#222222" rx="10" ry="10" style="stroke:none;stroke-width:1.0;"/><ellipse cx="568" cy="1426.5999" fill="none" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><ellipse cx="568.5" cy="1427.0999" fill="#222222" rx="6" ry="6" style="stroke:none;stroke-width:1.0;"/><!--MD5=[26fdb460bcf3812086ba1edf6aee62a2]
+link *start*CHANGE_PASSWORD to CPS1--><g id="link_*start*CHANGE_PASSWORD_CPS1"><path d="M515,908.0399 C515,915.8499 515,927.3899 515,938.3099 " fill="none" id="*start*CHANGE_PASSWORD-to-CPS1" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="515,943.2799,519,934.2799,515,938.2799,511,934.2799,515,943.2799" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7e3bcda48f4828d5e0ab33697644712d]
+link CPS1 to CPS2--><g id="link_CPS1_CPS2"><path d="M489.8,976.7699 C471.62,982.6699 448.36,993.5899 437,1012.5999 C425.82,1031.3199 426.71,1056.1599 430.05,1075.4699 " fill="none" id="CPS1-to-CPS2" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="431.16,1080.2699,433.4194,1070.6837,430.2317,1075.3569,425.5585,1072.1691,431.16,1080.2699" style="stroke:#181818;stroke-width:1.0;"/><path d="M442,1017.5999 L442,1058.5999 L576,1058.5999 L576,1027.5999 L566,1017.5999 L442,1017.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M566,1017.5999 L566,1027.5999 L576,1027.5999 L566,1017.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="105" x="452" y="1034.6769">System requires:</text><ellipse cx="453.5" cy="1046.3" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="57" x="460" y="1050.277">Password</text></g><!--MD5=[c6613d133bcdece2683561b6440c5b33]
+link CPS2 to CPS3--><g id="link_CPS2_CPS3"><path d="M434.59,1131.8499 C432.97,1151.4399 433.3,1179.1799 444,1200.5999 C448.48,1209.5599 455.81,1217.3899 463.45,1223.7799 " fill="none" id="CPS2-to-CPS3" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="466.71,1227.1799,462.1927,1218.4281,462.8098,1224.0512,457.1868,1224.6684,466.71,1227.1799" style="stroke:#181818;stroke-width:1.0;"/><path d="M449,1154.5999 L449,1195.5999 L568,1195.5999 L568,1164.5999 L558,1154.5999 L449,1154.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M558,1154.5999 L558,1164.5999 L568,1164.5999 L558,1154.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="90" x="459" y="1171.6769">User provides:</text><ellipse cx="460.5" cy="1183.3" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="57" x="467" y="1187.277">Password</text></g><!--MD5=[9995ac240cbe242cc71029c38127d483]
+link CPS3 to CPSC1--><g id="link_CPS3_CPSC1"><path d="M518.39,1268.9799 C531.95,1281.9999 547.88,1297.2899 557.96,1306.9599 " fill="none" id="CPS3-to-CPSC1" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="561.15,1309.9799,557.4291,1300.861,557.5436,1306.5167,551.8879,1306.6312,561.15,1309.9799" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[07975e07bb22d5335321984e42de9a37]
+link CPSC1 to CPS1--><g id="link_CPSC1_CPS1"><path d="M571.23,1308.3999 C585.28,1271.2799 637.94,1116.3299 581,1012.5999 C573.38,998.7299 559.03,988.7799 545.64,982.0599 " fill="none" id="CPSC1-to-CPS1" style="stroke:#FF0000;stroke-width:1.0;"/><polygon fill="#FF0000" points="541.38,979.5499,547.7759,987.0394,545.8914,981.7057,551.2251,979.8212,541.38,979.5499" style="stroke:#FF0000;stroke-width:1.0;"/><path d="M611,1162.5999 L611,1187.5999 L743,1187.5999 L743,1172.5999 L733,1162.5999 L611,1162.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M733,1162.5999 L733,1172.5999 L743,1172.5999 L733,1162.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="111" x="617" y="1179.6769">Password incorrect</text></g><!--MD5=[77ec30b8b0bf5b85caf2b20cda9b6a58]
+link CPSC1 to *end*CHANGE_PASSWORD--><g id="link_CPSC1_*end*CHANGE_PASSWORD"><path d="M568,1330.0499 C568,1349.4799 568,1388.8999 568,1410.5399 " fill="none" id="CPSC1-to-*end*CHANGE_PASSWORD" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="568,1415.3999,572,1406.3999,568,1410.3999,564,1406.3999,568,1415.3999" style="stroke:#181818;stroke-width:1.0;"/><path d="M573,1352.5999 L573,1393.5999 L709,1393.5999 L709,1362.5999 L699,1352.5999 L573,1352.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M699,1352.5999 L699,1362.5999 L709,1362.5999 L699,1352.5999 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="94" x="583" y="1369.6769">System allows:</text><ellipse cx="584.5" cy="1381.3" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="103" x="591" y="1385.277">Change password</text></g><!--MD5=[19e7606b9b1268d5baefb8685dd5ef82]
+link *start to PROFILE_MANAGEMENT--><g id="link_*start_PROFILE_MANAGEMENT"><path d="M692.5,26.26 C692.5,38.67 692.5,61.28 692.5,79.89 " fill="none" id="*start-to-PROFILE_MANAGEMENT" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="692.5,84.52,696.5,75.52,692.5,79.52,688.5,75.52,692.5,84.52" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7c75ed9566d87278dbcbda335a0fa700]
+link PROFILE_MANAGEMENT to EDIT_PROFILE--><g id="link_PROFILE_MANAGEMENT_EDIT_PROFILE"><path d="M692.5,136.46 C692.5,150.19 692.5,168.81 692.5,190 " fill="none" id="PROFILE_MANAGEMENT-to-EDIT_PROFILE" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="692.5,194.74,696.5,185.74,692.5,189.74,688.5,185.74,692.5,194.74" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[aa4ef48d02e39dc61dde03b914629f01]
+link PROFILE_MANAGEMENT to SECURITY--><g id="link_PROFILE_MANAGEMENT_SECURITY"><path d="M598.09,120.22 C542.51,129.89 474.83,150.82 431.5,196 C379.85,249.85 370.45,342.73 369.23,390.34 " fill="none" id="PROFILE_MANAGEMENT-to-SECURITY" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="369.11,395.19,373.2892,386.2718,369.21,390.191,365.2908,386.1118,369.11,395.19" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[8752ccfac0dc96dc93d90134c963ac59]
+link SECURITY to CHANGE_EMAIL--><g id="link_SECURITY_CHANGE_EMAIL"><path d="M363.41,446.52 C352.25,490.72 327.08,590.42 299.13,701.13 " fill="none" id="SECURITY-to-CHANGE_EMAIL" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="297.71,705.75,303.7948,698.0057,298.9361,700.9027,296.0391,696.0439,297.71,705.75" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[0c717f23e67aee78937a00a13eb9afe1]
+link SECURITY to CHANGE_PASSWORD--><g id="link_SECURITY_CHANGE_PASSWORD"><path d="M376.1,446.67 C387.32,487.86 410.92,574.07 431.5,646.8 C449.56,710.61 469.17,778.91 487.95,843.89 " fill="none" id="SECURITY-to-CHANGE_PASSWORD" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="489.54,848.37,490.8868,838.6137,488.1532,843.5662,483.2007,840.8326,489.54,848.37" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7f386684fa4fcfdb0b50fe902a10294a]
+link EDIT_PROFILE to union--><g id="link_EDIT_PROFILE_union"><path d="M759.18,647.16 C763.35,667.2 766.9,687.28 769.5,706.8 C821.22,1095.73 929.25,1231.24 769.5,1589.6 C755.77,1620.39 721.37,1643.41 702.81,1654.06 " fill="none" id="EDIT_PROFILE-to-union" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="699.03,1656.73,708.8378,1655.8314,703.3947,1654.2909,704.9352,1648.8478,699.03,1656.73" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[55c3790dfaf2ff1bf6cb5829d1871202]
+link CHANGE_EMAIL to union--><g id="link_CHANGE_EMAIL_union"><path d="M366.08,1574.19 C371.71,1579.53 377.52,1584.68 383.5,1589.6 C429.34,1627.34 618.2,1652.13 674.56,1658.79 " fill="none" id="CHANGE_EMAIL-to-union" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="679.18,1659.45,670.6956,1654.4484,674.2127,1658.879,669.7821,1662.3961,679.18,1659.45" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[80f7cc1b8bbb921234afc535661c8a91]
+link CHANGE_PASSWORD to union--><g id="link_CHANGE_PASSWORD_union"><path d="M642.9,1447.05 C662.16,1533.46 679.95,1613.26 687.14,1645.52 " fill="none" id="CHANGE_PASSWORD-to-union" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="688.43,1650.32,690.3764,1640.6654,687.3423,1645.4397,682.568,1642.4057,688.43,1650.32" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[579c1c469da73c5446fd0d518153c367]
+link union to *end--><g id="link_union_*end"><path d="M690.5,1674.06 C690.5,1688.1 690.5,1711.92 690.5,1727.45 " fill="none" id="union-to-*end" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="690.5,1732.16,694.5,1723.16,690.5,1727.16,686.5,1723.16,690.5,1732.16" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[31602ff84240c7f3b707efd5648cd655]
+link union to PROFILE_MANAGEMENT--><g id="link_union_PROFILE_MANAGEMENT"><path d="M700.45,1659.1 C727.58,1654.44 803.17,1637.52 837.5,1589.6 C1083.36,1246.4 927.67,1068.19 953.5,646.8 C965.76,446.82 1071.49,357.93 953.5,196 C916.91,145.79 849.79,124.94 792.78,116.57 " fill="none" id="union-to-PROFILE_MANAGEMENT" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="787.94,115.75,796.2923,120.9691,792.8909,116.4491,797.4109,113.0477,787.94,115.75" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[92335a7000b63b70872291634d9601e1]
+@startuml profile-management 
+
+[*] - -> PROFILE_MANAGEMENT
+
+state EDIT_PROFILE {
+    state EPS1 as " "
+    state EPS2 as " "
+    state EPC1 <<choice>>
+
+    [*] - -> EPS1
+
+    EPS1 - -> EPS2
+    note on link
+        <b> System allows edit to: </b>
+        * Full name        
+        * Profile picture
+        * Gender
+        * Username
+        * Date of birth
+    end note
+    
+    EPS2 - -> EPC1
+    note on link 
+        <b> User provides requested </b>        
+    end note
+
+    EPC1 -[#red]- -> EPS1
+    note on link
+        <b> System allows duplicate: </b>
+        * Username                
+    end note
+
+}
+
+state CHANGE_EMAIL {
+    state SS2 as " "
+    state SS3 as " "
+    state SS4 as " "
+    state SS5 as " "
+    
+    state SSC2 <<choice>>
+    state SSC3 <<choice>>
+
+    [*] - -> SS2
+        
+    SS2 - -> SS3
+    note on link
+        <b> System requires: </b>
+        * Password            
+    end note
+    
+    SS3 - -> SS4
+    note on link
+        <b> User provides: </b>
+        * Password            
+    end note
+
+    SS4 - -> SSC2
+    SSC2 -[#red]- -> SS2
+    note on link
+        Password incorrect
+    end note
+
+    SSC2 - -> SS5
+    note on link
+        <b> System requires: </b>
+        * Code verification
+    end note
+
+    SS5 - -> SSC3
+    note on link
+        <b> User provides: </b>
+        * Code verification
+    end note
+    SSC3 -[#red]- -> SS5
+    note on link
+        Code incorrect
+    end note
+
+    SSC3 - -> [*]
+    note on link
+        <b> System allows: </b>
+        * Change email
+    end note
+}
+
+
+state CHANGE_PASSWORD {
+    state CPS1 as " "
+    state CPS2 as " "
+    state CPS3 as " "
+    state CPSC1 <<choice>>
+
+
+    [*] - -> CPS1
+    CPS1 - -> CPS2
+    note on link
+        <b> System requires: </b>
+        * Password            
+    end note
+
+    CPS2 - -> CPS3
+    note on link
+        <b> User provides: </b>
+        * Password            
+    end note
+
+    CPS3 - -> CPSC1
+    CPSC1 -[#red]- -> CPS1
+    note on link
+        Password incorrect
+    end note
+
+    CPSC1 - -> [*]
+    note on link
+        <b> System allows: </b>
+        * Change password
+    end note
+
+}
+
+
+PROFILE_MANAGEMENT - -> EDIT_PROFILE
+
+PROFILE_MANAGEMENT - -> SECURITY 
+
+SECURITY - -> CHANGE_EMAIL
+SECURITY - -> CHANGE_PASSWORD
+
+state union <<choice>>
+
+EDIT_PROFILE - -> union
+CHANGE_EMAIL - -> union
+CHANGE_PASSWORD - -> union
+
+
+union - -> [*]
+union - -> PROFILE_MANAGEMENT
+
+
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 12:01:30 ECT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>
