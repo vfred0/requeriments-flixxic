@@ -30,6 +30,11 @@ state EDIT_PROFILE {
         * Username                
     end note
 
+    EPC1 --> [*]
+    note on link
+        <b> System allows: </b>
+        * Edit profile
+    end note
 }
 
 state CHANGE_EMAIL {
