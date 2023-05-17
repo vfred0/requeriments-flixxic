@@ -9,6 +9,7 @@
     - [Casos de uso para los usuarios](#casos-de-uso-para-los-usuarios)
     - [Contexto de casos de uso](#contexto-de-casos-de-uso)
   - [Especificar casos de uso](#especificar-casos-de-uso)
+  - [Prototipar la interfaz de usuario](#prototipar-la-interfaz-de-usuario)
 - [Referencias](#referencias)
 
 # Introducción 
@@ -132,6 +133,11 @@ Interacción con el contenido
 Gestión del perfil
 
 ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/1-requeriments/2-use-cases-specifications/user/profile-management.svg?raw=true)
+
+## Prototipar la interfaz de usuario
+Los prototipos se encuentran realizados con figma y se pueden ver en los siguientes enlaces:
+Prototipo Desktop:  https://is.gd/zOKUJ5
+Prototipo Mobile: https://is.gd/SptDMP
 
 # Referencias
 Para llevar a cabo este proyecto, he utilizado como referencia los siguientes proyectos y agradezco a los autores por compartirlos:
