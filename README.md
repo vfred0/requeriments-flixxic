@@ -136,8 +136,8 @@ Gestión del perfil
 
 ## Prototipar la interfaz de usuario
 Los prototipos se encuentran realizados con figma y se pueden ver en los siguientes enlaces:
-Prototipo Desktop:  https://is.gd/zOKUJ5
-Prototipo Mobile: https://is.gd/SptDMP
+- Prototipo Desktop:  https://is.gd/zOKUJ5
+- Prototipo Mobile: https://is.gd/SptDMP
 
 # Referencias
 Para llevar a cabo este proyecto, he utilizado como referencia los siguientes proyectos y agradezco a los autores por compartirlos:
