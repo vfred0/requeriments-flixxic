@@ -94,20 +94,21 @@ state CHANGE_PASSWORD {
     state CPS1 as " "
     state CPS2 as " "
     state CPS3 as " "
+    state CPS4 as " "    
     state CPSC1 <<choice>>
-
+    state CPSC2 <<choice>>
 
     [*] --> CPS1
     CPS1 --> CPS2
     note on link
         <b> System requires: </b>
-        * Password            
+        * Current password            
     end note
 
     CPS2 --> CPS3
     note on link
         <b> User provides: </b>
-        * Password            
+        * Current password            
     end note
 
     CPS3 --> CPSC1
@@ -116,11 +117,20 @@ state CHANGE_PASSWORD {
         Password incorrect
     end note
 
-    CPSC1 --> [*]
+    CPSC1 --> CPS4
     note on link
         <b> System allows: </b>
-        * Change password
+        * New password
+        * Confirm new password
     end note
+
+    CPS4 --> CPSC2 
+    CPSC2 -[#red]--> CPS4
+    note on link
+        Passwords do not match
+    end note
+
+    CPSC2 --> [*]    
 }
 
 PROFILE_MANAGEMENT --> EDIT_PROFILE
