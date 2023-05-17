@@ -130,7 +130,11 @@ state CHANGE_PASSWORD {
         Passwords do not match
     end note
 
-    CPSC2 --> [*]    
+    CPSC2 --> [*] 
+    note on link
+        <b> System allows: </b>
+        * Change password
+    end note   
 }
 
 PROFILE_MANAGEMENT --> EDIT_PROFILE
