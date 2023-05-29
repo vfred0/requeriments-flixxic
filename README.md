@@ -10,9 +10,9 @@
     - [Contexto de casos de uso](#contexto-de-casos-de-uso)
   - [Especificar casos de uso](#especificar-casos-de-uso)
   - [Prototipar la interfaz de usuario](#prototipar-la-interfaz-de-usuario)
-[Disciplina de análisis](#disciplina-de-análisis)
+- [Disciplina de análisis](#disciplina-de-análisis)
   - [Analizar la arquitectura](#analizar-la-arquitectura)
-[Disciplina de diseño](#disciplina-de-diseño)
+- [Disciplina de diseño](#disciplina-de-diseño)
   - [Diseñar la arquitectura](#diseñar-la-arquitectura)  
 - [Referencias](#referencias)
 
