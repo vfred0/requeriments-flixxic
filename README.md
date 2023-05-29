@@ -143,12 +143,12 @@ Los prototipos se encuentran realizados con figma y se pueden ver en los siguien
 - Prototipo Desktop:  https://is.gd/zOKUJ5
 - Prototipo Mobile: https://is.gd/SptDMP
 
-## Disciplinas de análisis
+## Disciplina de análisis
 ### Analizar la arquitectura
 La estructura de la aplicación será por modelos, vistas y controladores. 
 ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/2-analysis/architecture-analysis.svg?raw=true)
 
-## Disciplinas de diseño
+## Disciplina de diseño
 ### Diseñar la arquitectura 
 ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/3-design/architecture.svg?raw=true)
 
