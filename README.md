@@ -10,6 +10,10 @@
     - [Contexto de casos de uso](#contexto-de-casos-de-uso)
   - [Especificar casos de uso](#especificar-casos-de-uso)
   - [Prototipar la interfaz de usuario](#prototipar-la-interfaz-de-usuario)
+[Disciplina de análisis](#disciplina-de-análisis)
+  - [Analizar la arquitectura](#analizar-la-arquitectura)
+[Disciplina de diseño](#disciplina-de-diseño)
+  - [Diseñar la arquitectura](#diseñar-la-arquitectura)  
 - [Referencias](#referencias)
 
 # Introducción 
@@ -143,6 +147,10 @@ Los prototipos se encuentran realizados con figma y se pueden ver en los siguien
 ### Analizar la arquitectura
 La estructura de la aplicación será por modelos, vistas y controladores. 
 ![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/2-analysis/architecture-analysis.svg?raw=true)
+
+## Disciplinas de diseño
+### Diseñar la arquitectura 
+![](https://github.com/vfred0/requirements-flixxic/blob/main/images/docs/3-design/architecture.svg?raw=true)
 
 # Referencias
 Para llevar a cabo este proyecto, he utilizado como referencia los siguientes proyectos y agradezco a los autores por compartirlos:
