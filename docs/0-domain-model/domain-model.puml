@@ -12,19 +12,22 @@ Flixxic *--> User: ONE_TO_MANY
 Flixxic *--> Content: ONE_TO_MANY
 
 User <|-- NormalUser: ONE_TO_MANY
-User <|-right- AdminUser: ONE_TO_MANY
+User <|-- AdminUser: ONE_TO_MANY
 
-NormalUser -right-> ManagementProfile
-AdminUser -up-> ManagementContent
+NormalUser --> ManagementProfile
+AdminUser --> ManagementContent
 
 Content <|-- Movie: ONE_TO_MANY
-Content <|-up- Serie: ONE_TO_MANY
+Content <|-- Serie: ONE_TO_MANY
 Content *--> Cast: ONE_TO_ONE
 Content o--> Comment: ZERO_TO_MANY
-Content *-left-> Trailer: ONE_TO_ONE
-Content *-right-> Storyline: ONE_TO_ONE
-Content *-up-> Genre: ONE_TO_MANY
+Content *--> Trailer: ONE_TO_ONE
+Content *--> Storyline: ONE_TO_ONE
+Content *--> Genre: ONE_TO_MANY
 Content o--> Review: ZERO_TO_MANY
+Content o--> Favorite: ZERO_TO_MANY
+Content o--> WatchLater: ZERO_TO_MANY
+Content o--> History: ZERO_TO_MANY
 
 Cast *--> Actor: ONE_TO_MANY
 
@@ -41,4 +44,14 @@ Episode o--> Cast: ONE_TO_ONE
 
 Comment o--> Reply: ZERO_TO_MANY
 Comment o--> LikeOrDislike: ZERO_TO_MANY
+
+User ..> Notification: ZERO_TO_MANY
+User ..> Favorite: ZERO_TO_MANY
+User ..> WatchLater: ZERO_TO_MANY
+User ..> History: ZERO_TO_MANY
+
+Notification o--> Comment: ZERO_TO_ONE
+Notification o--> Reply: ZERO_TO_ONE
+
+
 @enduml
